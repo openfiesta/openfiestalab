@@ -3,7 +3,8 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: './public/logo.png' }]
     ],
-    description: 'Lab Guide',
+    base: '/',
+    description: 'Lab Guidance of Open FIESTA',
     dest: 'public',
     locales: {
         '/': { 

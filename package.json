@@ -1,7 +1,7 @@
 {
     "scripts": {
-        "docs:dev": "vuepress dev labguide",
-        "docs:build": "vuepress build labguide",
+        "dev": "vuepress dev labguide",
+        "build": "vuepress build labguide",
         "deploy": "bash deploy.sh"
     },
     "devDependencies": {
