@@ -9,7 +9,7 @@ git clone https://github.com/openfiesta/openfiestalab
 cd openfiestalab
 npm install
 ```
-###Contribution
+### Contribution
 Build with [Vuepress](https://vuepress.vuejs.org/)
 Use Markdown to contribute
 
