@@ -10,7 +10,7 @@ cd openfiestalab
 npm install
 ```
 ### Contribution
-Build with [Vuepress](https://vuepress.vuejs.org/)
+Build with [Vuepress](https://vuepress.vuejs.org/)  
 Use Markdown to contribute
 
 ### Development 
