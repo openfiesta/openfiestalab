@@ -19,8 +19,8 @@ module.exports = {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
-                    { text: 'Guide', link: '/guide/' },
-                    { text: 'About', link: '/about/' }
+                    { text: 'guide', link: '/guide/' },
+                    { text: 'about', link: '/about/' }
                 ],
                 displayAllHeaders: true,
                 label: 'English',

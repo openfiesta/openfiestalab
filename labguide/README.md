@@ -9,6 +9,6 @@ features:
   details: 
 - title: Design+ Space
   details: 
-footer: MIT Licensed | Copyright © 2019 Open FIESTA
+footer:  Copyright © 2019 Open FIESTA
 ---
 
