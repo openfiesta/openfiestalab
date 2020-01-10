@@ -5,6 +5,7 @@ https://openfiesta.space/
 Make sure you have node.js and npm installed
 
 ```
+npm install -g vuepress
 git clone https://github.com/openfiesta/openfiestalab
 cd openfiestalab
 npm install
