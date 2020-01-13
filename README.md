@@ -1,20 +1,24 @@
 # OpenFIESTA Lab Platform
 https://openfiesta.space/
 
-### Install
-Make sure you have node.js and npm installed
+### Install dependencies
+Make sure you have node.js and npm installed (and updated):
 
 ```
-npm install -g vuepress
+npm install npm -g
+npm install vuepress -g
+```
+### Clone the repository to a local directory
+
+```
 git clone https://github.com/openfiesta/openfiestalab
 cd openfiestalab
-npm install
 ```
 ### Contribution
 Build with [Vuepress](https://vuepress.vuejs.org/)  
 Use Markdown to contribute
 
-### Development 
+### Development
 ```
 npm run dev
 ```
@@ -25,13 +29,12 @@ http://localhost:8080/
 ```
 npm run build
 ```
-Generated static files in /public
+Static files generated in /public
 
 ---
 
 ### Deployment
 ```
-npm run deploy 
+npm run deploy
 ```
-deploy to https://openfiesta.space/
-
+Deploy to https://openfiesta.space/
