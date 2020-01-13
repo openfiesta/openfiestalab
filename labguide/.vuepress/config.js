@@ -7,10 +7,10 @@ module.exports = {
     description: 'Lab Guidance of Open FIESTA',
     dest: 'public',
     locales: {
-        '/': { 
+        '/': {
             lang: 'en-US'
         },
-        '/zh/': { 
+        '/zh/': {
             lang: 'zh-CN'
         }
     },
@@ -19,8 +19,8 @@ module.exports = {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
-                    { text: 'guide', link: '/guide/' },
-                    { text: 'about', link: '/about/' }
+                    { text: 'Guide', link: '/guide/' },
+                    { text: 'About', link: '/about/' }
                 ],
                 displayAllHeaders: true,
                 label: 'English',
@@ -28,17 +28,17 @@ module.exports = {
                 sidebar: [
                     ['/introduction', 'Introduction'],
                     {
-                        title: 'labs',   
-                        path: '/labs/',      
+                        title: 'labs',
+                        path: '/labs/',
                         children: [
                             ['/labs/bio', 'BIO-X Lab'],
                             ['/labs/iid', 'Design + Space']
                         ]
                     },
                     ['/learning', 'Learning'],
-                    ['/project', 'Projects'],
+                    ['/projects', 'Projects'],
                     ['/toolbox', 'Toolbox']
-                ]   
+                ]
             },
             '/zh/': {
                 nav: [
@@ -60,7 +60,7 @@ module.exports = {
                         ]
                     },
                     ['/learning', '学习'],
-                    ['/project', '项目'],
+                    ['/projects', '项目'],
                     ['/toolbox', '工具箱']
                 ]
             }
