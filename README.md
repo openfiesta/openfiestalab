@@ -8,12 +8,15 @@ Make sure you have node.js and npm installed (and updated):
 npm install npm -g
 npm install vuepress -g
 ```
-### Clone the repository to a local directory
+### Clone the repository and install local dependencies
 
 ```
 git clone https://github.com/openfiesta/openfiestalab
 cd openfiestalab
+
+npm install
 ```
+
 ### Contribution
 Build with [Vuepress](https://vuepress.vuejs.org/)  
 Use Markdown to contribute
