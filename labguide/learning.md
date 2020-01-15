@@ -13,4 +13,5 @@
 
 **3d Model resourses website**
 * https://www.thingiverse.com/
-* 
+
+* Soon adding the details on how to use 3D 
