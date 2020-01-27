@@ -1,7 +1,9 @@
 module.exports = {
     title: 'Open FIESTA Lab',
     head: [
-        ['link', { rel: 'icon', href: '/image/logoof.png' }]
+        ['link', { rel: 'icon', href: '/image/logoof.png' }],
+        ['link', { rel: 'stylesheet', href: `https://fonts.cat.net/css?family=Roboto:100,300,400,500,700,900|Material+Icons` }],
+        ['link', { rel: 'stylesheet', href: `https://use.fontawesome.com/releases/v5.1.0/css/all.css` }]
     ],
     base: '/',
     description: 'Lab Guidance of Open FIESTA',
@@ -14,18 +16,29 @@ module.exports = {
             lang: 'zh-CN'
         }
     },
+    plugins: [
+        require['@vuepress/back-to-top']
+    ],
     themeConfig:{
         logo: '/image/logoof.png',
+        prevLinks: false,
+        nextLinks: false,
+        repo: 'https://github.com/openfiesta/openfiestalab',
+        repoLabel: 'Contribute!',
+        docsDir: 'labguide',
+        docsBranch: 'master',
+        editLinks: true,
         locales: {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
                     { text: 'Guide', link: '/guide/' },
-                    { text: 'About', link: '/about/' }
+                    { text: 'About', link: '/about/' },
+                    { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
                 ],
                 displayAllHeaders: true,
                 label: 'English',
-                lastUpdated: 'Last Updated',
+//                lastUpdated: 'Last Updated',
                 sidebar: [
                     ['/introduction', 'Introduction'],
                     {
@@ -51,10 +64,11 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh/' },
                     { text: '指南', link: '/zh/guide/' },
-                    { text: '关于', link: '/zh/about/' }
+                    { text: '关于', link: '/zh/about/' },
+                    { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
                 ],
                 label: '简体中文',
-                lastUpdated: '最近更新时间',
+//                lastUpdated: '最近更新时间',
                 displayAllHeaders: true,
                 sidebar: [
                     ['/introduction', '简介'],
