@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Open FIESTA Lab',
     head: [
-        ['link', { rel: 'icon', href: './public/logo.png' }]
+        ['link', { rel: 'icon', href: '/image/logoof.png' }]
     ],
     base: '/',
     description: 'Lab Guidance of Open FIESTA',
@@ -15,6 +15,7 @@ module.exports = {
         }
     },
     themeConfig:{
+        logo: '/image/logoof.png',
         locales: {
             '/': {
                 nav:[
@@ -28,16 +29,22 @@ module.exports = {
                 sidebar: [
                     ['/introduction', 'Introduction'],
                     {
-                        title: 'labs',
+                        title: 'Labs',
                         path: '/labs/',
                         children: [
-                            ['/labs/bio', 'BIO-X Lab'],
-                            ['/labs/iid', 'Design + Space']
+                            ['/labs/bio', 'BIO-X Lab(J213)'],
+                            ['/labs/iid', 'Design + Space(J211)'],
+                            ['/labs/stu', 'Studio(J208)'],
+                            ['/labs/machine', 'Machine Room(J201)']
                         ]
                     },
                     ['/learning', 'Learning'],
-                    ['/projects', 'Projects'],
-                    ['/toolbox', 'Toolbox']
+                    ['/projects', 'Project'],
+                    ['/toolbox', 'Toolbox'],
+                    ['/events', 'Event'],
+                    ['/residency', 'Residency'],
+                    ['/club', 'Club'],
+                    ['/link', 'Link'],
                 ]
             },
             '/zh/': {
@@ -52,16 +59,22 @@ module.exports = {
                 sidebar: [
                     ['/introduction', '简介'],
                     {
-                        title: 'labs',
+                        title: '实验室',
                         path: '/zh/labs/',
                         children: [
-                            ['/zh/labs/bio', '生命健康交叉实验室（BIO-X Lab）'],
-                            ['/zh/labs/iid', '创新设计实验室（Design + Space）']
+                            ['/zh/labs/bio', '生命健康交叉实验室 BIO-X Lab（J213）'],
+                            ['/zh/labs/iid', '创新设计实验室 Design + Space（J211）'],
+                            ['/zh/labs/stu', '摄影室 Studio(J208)'],
+                            ['/zh/labs/machine', '机械加工间 Machine Room(J201)']
                         ]
                     },
                     ['/learning', '学习'],
                     ['/projects', '项目'],
-                    ['/toolbox', '工具箱']
+                    ['/toolbox', '工具箱'],
+                    ['/events', '活动'],
+                    ['/residency', '入驻项目'],
+                    ['/club', '社团协会'],
+                    ['/link', '友情链接'],
                 ]
             }
         }
