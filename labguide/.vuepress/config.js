@@ -17,14 +17,14 @@ module.exports = {
         }
     },
     plugins: [
-        require['@vuepress/back-to-top']
+        require('./my-plugin.js')
     ],
     themeConfig:{
         logo: '/image/logoof.png',
         prevLinks: false,
         nextLinks: false,
         repo: 'https://github.com/openfiesta/openfiestalab',
-        repoLabel: 'Contribute!',
+        repoLabel: 'Github',
         docsDir: 'labguide',
         docsBranch: 'master',
         editLinks: true,
@@ -34,7 +34,7 @@ module.exports = {
                     { text: 'Home', link: '/' },
                     { text: 'Guide', link: '/guide/' },
                     { text: 'About', link: '/about/' },
-                    { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
+                    // { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
                 ],
                 displayAllHeaders: true,
                 label: 'English',
@@ -65,7 +65,6 @@ module.exports = {
                     { text: '主页', link: '/zh/' },
                     { text: '指南', link: '/zh/guide/' },
                     { text: '关于', link: '/zh/about/' },
-                    { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
                 ],
                 label: '简体中文',
 //                lastUpdated: '最近更新时间',
