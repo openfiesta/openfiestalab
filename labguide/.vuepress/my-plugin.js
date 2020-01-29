@@ -31,8 +31,18 @@ module.exports = {
                     margin: 24,
                     background: '#BADA55',
                     scrollOffset: 0,
-                },
-            },
+                }
+            }
         ],
+        [
+            'vuepress-plugin-mathjax',
+            {
+                target: 'svg',
+                macros: {
+                    '*': '\\times',
+                }
+            }
+        ]
     ]
 }
+
