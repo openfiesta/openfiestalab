@@ -1,8 +1,24 @@
 
-## PCR
+## Equipments
+### PCR Machine 
+（Thermocycler / DNA amplifier)
 
+### Plasma Cleaner
 
-## Plasma Cleaner
+### Electrophoresis Apparatus
 
+### Magnetic Stirrers
 
-## Electrophoresis apparatus
+### pH Meter
+
+### Incubator Shaker
+
+### Analytical Balance
+
+### Centrifuge
+
+### Electroporation
+
+### Ultrasonic Cleaner
+
+### Injection Pump
