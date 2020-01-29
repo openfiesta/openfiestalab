@@ -70,7 +70,7 @@ module.exports = {
 //                lastUpdated: '最近更新时间',
                 displayAllHeaders: true,
                 sidebar: [
-                    ['/introduction', '简介'],
+                    ['/zh/introduction', '简介'],
                     {
                         title: '实验室',
                         path: '/zh/labs/',
@@ -81,13 +81,13 @@ module.exports = {
                             ['/zh/labs/machine', '机械加工间 Machine Room(J201)']
                         ]
                     },
-                    ['/learning', '学习'],
-                    ['/projects', '项目'],
-                    ['/toolbox', '工具箱'],
-                    ['/events', '活动'],
-                    ['/residency', '入驻项目'],
-                    ['/club', '社团协会'],
-                    ['/link', '友情链接'],
+                    ['/zh/learning', '学习'],
+                    ['/zh/projects', '项目'],
+                    ['/zh/toolbox', '工具箱'],
+                    ['/zh/events', '活动'],
+                    ['/zh/residency', '入驻项目'],
+                    ['/zh/club', '社团协会'],
+                    ['/zh/link', '友情链接'],
                 ]
             }
         }

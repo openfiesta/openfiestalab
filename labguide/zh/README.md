@@ -10,7 +10,7 @@ features:
   details: 
 - title: 创新设计空间(J211)
   details: 
-- title: 思维交互空间（J212）
+- title: 创意交互空间（J212）
   details: 
 footer: Copyright © 2019-2020 Open FIESTA
 ---
