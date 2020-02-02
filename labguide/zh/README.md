@@ -13,5 +13,6 @@ features:
 - title: 创意交互空间（J212）
   details: 
 footer: Copyright © 2019-2020 Open FIESTA
+comment: false
 ---
 

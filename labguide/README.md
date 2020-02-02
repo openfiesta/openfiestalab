@@ -13,4 +13,5 @@ features:
 - title: Idea Cafe (J212)
   details: When you have an idea, while you don't know where to share and who to talk...
 footer:  Copyright © 2019-2020 Open FIESTA
+comment: false
 ---
