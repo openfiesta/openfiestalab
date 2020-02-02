@@ -8,10 +8,12 @@
         "@vuepress/cli": "^1.0.0-alpha.0",
         "@vuepress/plugin-active-header-links": "^1.2.0",
         "@vuepress/plugin-back-to-top": "^1.2.0",
+        "vuepress-plugin-clean-urls": "^1.1.1",
         "vuepress-plugin-gitalk-maker": "^0.1.0",
         "vuepress-plugin-mathjax": "^1.2.8",
-        "vuepress-plugin-medium-zoom": "^1.1.8",
-        "vuepress-plugin-redirect": "^1.2.2"
+        "vuepress-plugin-redirect": "^1.2.2",
+        "vuepress-plugin-table-of-contents": "^1.1.5",
+        "vuepress-plugin-zooming": "^1.1.7"
     },
     "dependencies": {
         "uninstall": "0.0.0",

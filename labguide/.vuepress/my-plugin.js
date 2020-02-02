@@ -2,6 +2,7 @@
 module.exports = {
     plugins: [
         ['@vuepress/back-to-top'],
+        ['vuepress-plugin-table-of-contents'],
         [
             'vuepress-plugin-comment',
             {
@@ -23,18 +24,6 @@ module.exports = {
             }
         ],
         [
-            'vuepress-plugin-medium-zoom',
-            {
-                selector: '.my-wrapper .my-img',
-                delay: 1000,
-                options: {
-                    margin: 24,
-                    background: '#BADA55',
-                    scrollOffset: 0,
-                }
-            }
-        ],
-        [
             'vuepress-plugin-mathjax',
             {
                 target: 'svg',
@@ -42,6 +31,25 @@ module.exports = {
                     '*': '\\times',
                 }
             }
+        ],
+        [
+            'vuepress-plugin-clean-urls',
+            {
+                normalSuffix: '/',
+                indexSuffix: '/',
+                notFoundPath: '/404.html',
+            },
+        ],
+        [
+            'vuepress-plugin-zooming',
+            {
+                selector: '.theme-default-content img',
+                delay: 800,
+                options: {
+                    bgColor: 'white',
+                    zIndex: 10000,
+                },
+            },
         ]
     ]
 }
