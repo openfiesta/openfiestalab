@@ -3,6 +3,9 @@ module.exports = {
     plugins: [
         ['@vuepress/back-to-top'],
         ['vuepress-plugin-table-of-contents'],
+        ['vuepress-plugin-nprogress'],
+        // ['element-ui'],
+        ['vuepress-plugin-element-tabs'],
         [
             'vuepress-plugin-comment',
             {
