@@ -1,7 +1,8 @@
 
 ## Equipments
 ### PCR Machine 
-（Thermocycler / DNA amplifier)
+（Thermocycler / DNA amplifier)  
+
 
 ### Plasma Cleaner
 
