@@ -3,7 +3,7 @@
 ### PCR Machine 
 （Thermocycler / DNA amplifier)   
 
-<img width="221" src="/image/machine/PCR.jpg">  
+<img width="221" src="/image/machine/pcr.jpg">  
 
 ### Plasma Cleaner
 
@@ -71,8 +71,20 @@
 
 <img width="166" src="/image/machine/microdrop.jpg">  
 
-### Incubator
+### Incubator1 (for bacteria)
+
+### Incubator2 （for non-bacteria)
 
 ###  Laminar Flow Hood
 
 <img width="450" src="/image/machine/hood.jpg">  
+
+###  Fume Hood
+
+<img width="450" src="/image/machine/fumehood.jpg">  
+
+### UV Analyzer
+
+<img width="221" src="/image/machine/uvanalyzer.jpg"> 
+
+### Bio Microscope 
