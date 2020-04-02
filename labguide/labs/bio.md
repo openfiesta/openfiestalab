@@ -1,10 +1,14 @@
 
 ## Equipments
 ### PCR Machine 
-（Thermocycler / DNA amplifier)  
+（Thermocycler / DNA amplifier)   
 
+<img width="221" src="/image/machine/PCR.jpg">  
 
 ### Plasma Cleaner
+
+<img width="333" src="/image/machine/plasmacleaner.jpg">  
+
 
 ### Electrophoresis Apparatus
 
@@ -16,10 +20,59 @@
 
 ### Analytical Balance
 
-### Centrifuge
+### High Speed Refrigerated Centrifuge
+
+<img width="221" src="/image/machine/centrifuge1.jpg">  
+
+### Low Speed High Volume Centrifuge
+
+<img width="221" src="/image/machine/centrifuge2.jpg">  
 
 ### Electroporation
 
 ### Ultrasonic Cleaner
 
+<img width="221" src="/image/machine/ultrasoniccleaner.jpg">  
+
 ### Injection Pump
+
+### Spin Coater 
+
+<img width="450" src="/image/machine/spincoater.jpg">  
+
+### Spectrophotometer
+
+<img width="333" src="/image/machine/spectrophotometer.jpg">  
+
+### Ice Maker
+
+
+### Autoclave
+
+
+### Water Bath
+
+
+### Microwave Oven
+
+
+### Lab Oven
+
+
+### Ultrapure Water Machine
+
+
+### Orbital Shaker
+
+<img width="221" src="/image/machine/shaker.jpg">  
+
+
+### Micro Drop Spectrophotometer
+
+<img width="166" src="/image/machine/microdrop.jpg">  
+
+### Incubator
+
+###  Laminar Flow Hood
+
+<img width="450" src="/image/machine/hood.jpg">  
