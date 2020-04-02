@@ -33,8 +33,15 @@ module.exports = {
                 nav:[
                     { text: 'Home', link: '/' },
                     { text: 'Guide', link: '/guide/' },
-                    { text: 'About', link: '/about/' },
-                    // { text: 'Github', link: 'https://github.com/openfiesta/openfiestalab', target: '_self', rel: '' }
+                    { text: 'Residency', link: '/residency/'},
+                    {
+                        text: 'About',
+                        items: [
+                            { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/' }, 
+                            { text: 'Tsinghua SIGS', link: 'https://www-en.sz.tsinghua.edu.cn/'},
+                            { text: 'About the Lab', link: '/about/' }
+                        ]
+                    }
                 ],
                 displayAllHeaders: true,
                 label: 'English',
@@ -55,7 +62,6 @@ module.exports = {
                     ['/projects', 'Project'],
                     ['/toolbox', 'Toolbox'],
                     ['/events', 'Event'],
-                    ['/residency', 'Residency'],
                     ['/club', 'Club'],
                     ['/link', 'Link'],
                 ]
@@ -64,7 +70,15 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh/' },
                     { text: '指南', link: '/zh/guide/' },
-                    { text: '关于', link: '/zh/about/' },
+                    { text: '入驻', link: '/zh/residency'},
+                    {
+                        text: '关于',
+                        items: [
+                            { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/cn/' },
+                            { text: '清华大学深圳国际研究生院', link: 'https://www.sigs.tsinghua.edu.cn/'},
+                            { text: '关于实验室', link: '/zh/about/' }
+                        ]
+                    },
                 ],
                 label: '简体中文',
 //                lastUpdated: '最近更新时间',
@@ -85,7 +99,6 @@ module.exports = {
                     ['/zh/projects', '项目'],
                     ['/zh/toolbox', '工具箱'],
                     ['/zh/events', '活动'],
-                    ['/zh/residency', '入驻项目'],
                     ['/zh/club', '社团协会'],
                     ['/zh/link', '友情链接'],
                 ]
