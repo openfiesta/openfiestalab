@@ -41,7 +41,7 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 ### PCR Machine 
 （Thermocycler / DNA amplifier)   
 
-<img width="221" src="/image/machine/PCR.jpg">  
+<img width="221" src="/image/machine/pcr.jpg">  
 
 ### Electrophoresis equipment
 
@@ -108,10 +108,24 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 
 <img width="166" src="/image/machine/microdrop.jpg">  
 
-### Incubator
+### Incubator1 (for bacteria)
+
+### Incubator2 （for non-bacteria)
 
 ###  Laminar Flow Hood
 
 <img width="450" src="/image/machine/hood.jpg">  
 
+<<<<<<< HEAD
 ### Fume hood
+=======
+###  Fume Hood
+
+<img width="450" src="/image/machine/fumehood.jpg">  
+
+### UV Analyzer
+
+<img width="221" src="/image/machine/uvanalyzer.jpg"> 
+
+### Bio Microscope 
+>>>>>>> 56afd92dc52fdb7e1f5f9eb2a4c3c4b773b11d8c

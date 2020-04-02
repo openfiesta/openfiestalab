@@ -3,7 +3,7 @@
 
 ### PCR仪
 （DNA扩增仪）  
-<img width="221" src="/image/machine/PCR.jpg">  
+<img width="221" src="/image/machine/pcr.jpg">  
 
 
 ### 等离子清洗机
@@ -74,9 +74,22 @@
 
 <img width="166" src="/image/machine/microdrop.jpg">  
 
-### 恒温培养箱
+### 恒温培养箱1 (细菌)
+
+
+### 恒温培养箱2 (非细菌)
 
 
 ### 超净台
 
 <img width="450" src="/image/machine/hood.jpg">  
+
+### 通风橱
+
+<img width="450" src="/image/machine/fumehood.jpg">  
+
+### 暗箱紫外分析仪
+
+<img width="221" src="/image/machine/uvanalyzer.jpg">  
+
+### 生物显微镜
