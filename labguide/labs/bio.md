@@ -102,7 +102,7 @@ This machine is used to separate the different compounds of a dilution due to th
 
 <img width="166" src="/image/machine/microdrop.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
 
-### UV Analyzer
+#### UV Analyzer
 
 <img width="221" src="/image/machine/uvanalyzer.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px"> 
 
@@ -112,8 +112,7 @@ This machine is used to separate the different compounds of a dilution due to th
 
 #### pH Meter
 
-<<<<<<< HEAD
-### 
+
 
 ### Cellular cultures
 
@@ -139,7 +138,7 @@ This machine is used to separate the cells in a dilution due to their difference
 
 <img width="333" src="/image/machine/plasmacleaner.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
 
-Generally used for activating material surfaces. In our lab is actually used for performing PDMS surface activation for its subsequent covalent binding to other surfaces.
+Generally used for activating material surfaces. In our lab ts main role is for performing PDMS surface activation for its subsequent covalent binding to other surfaces.
 
 #### Ultrasonic cleaner
 
@@ -150,18 +149,9 @@ Generally used for activating material surfaces. In our lab is actually used for
 #### Spin coater 
 
 <img width="450" src="/image/machine/spincoater.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
-=======
-### Fume hood
-=======
->>>>>>> 1bf830b1f17a605fdbc39ad9ea579acba2181c05
 
-
-
+### 
 ### Microscopy
 
-<<<<<<< HEAD
 #### Bio Microscope 
->>>>>>> 56afd92dc52fdb7e1f5f9eb2a4c3c4b773b11d8c
-=======
-### Bio Microscope 
 >>>>>>> 1bf830b1f17a605fdbc39ad9ea579acba2181c05
