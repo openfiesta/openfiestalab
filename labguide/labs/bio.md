@@ -1,6 +1,6 @@
 ## The Bio-X-Space
 
-The Bio-x-Space iming to provide openFIESTA with a space that allows the students to fast prototype around biology.
+The Bio-x-Space iming to provide Open FIESTA with a space that allows the students to fast prototype around biology.
 
 In this space, you will find different equipment for working from molecular biology to genetics or microfluidics.
 
@@ -34,7 +34,7 @@ Fran Quero is biologist by train and a DIYbio enthusiast engaged in developing o
 
 Professionally e have expertise in tissue engineering, nanotechnology, and biosensing. A complete electronics nerd, and a DIYBiologist by heart.
 
-He is graduated in biological sciences in the Complutense University of Madrid and now he is enrolled as a student of the BIO3 master of openFIESTA faculty.
+He is graduated in biological sciences in the Complutense University of Madrid and now he is enrolled as a student of the BIO3 master of Open FIESTA faculty.
 
 ## Main equipments
 
@@ -112,6 +112,7 @@ This machine is used to separate the different compounds of a dilution due to th
 
 #### pH Meter
 
+<<<<<<< HEAD
 ### 
 
 ### Cellular cultures
@@ -149,10 +150,18 @@ Generally used for activating material surfaces. In our lab is actually used for
 #### Spin coater 
 
 <img width="450" src="/image/machine/spincoater.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+=======
+### Fume hood
+=======
+>>>>>>> 1bf830b1f17a605fdbc39ad9ea579acba2181c05
 
 
 
 ### Microscopy
 
+<<<<<<< HEAD
 #### Bio Microscope 
 >>>>>>> 56afd92dc52fdb7e1f5f9eb2a4c3c4b773b11d8c
+=======
+### Bio Microscope 
+>>>>>>> 1bf830b1f17a605fdbc39ad9ea579acba2181c05
