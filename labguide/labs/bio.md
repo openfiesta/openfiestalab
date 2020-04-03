@@ -28,7 +28,7 @@ To address this, the space has some rules that reflect the good practices that a
 
 ## The laboratory assistant
 
-<img align="left" width="221" src="/image/fran.jpg"> 
+<img align="left" width="221" src="/image/fran.JPG" style="cursor: zoom-in; margin:50px 30px 50px 50px">
 
 Fran Quero is biologist by train and a DIYbio enthusiast engaged in developing open biology communities. Fran helped to create the first open citizen biofablab of Madrid (Spain), and found the first collegiate and High School iGEM teams of the city.
 
@@ -36,96 +36,123 @@ Professionally e have expertise in tissue engineering, nanotechnology, and biose
 
 He is graduated in biological sciences in the Complutense University of Madrid and now he is enrolled as a student of the BIO3 master of openFIESTA faculty.
 
-## Equipments
-
-### PCR Machine 
-（Thermocycler / DNA amplifier)   
-
-<img width="221" src="/image/machine/pcr.jpg">  
-
-### Electrophoresis equipment
-
-### Plasma cleaner
-
-<img width="333" src="/image/machine/plasmacleaner.jpg">  
-
-### Magnetic stirrers
-
-### pH Meter
-
-### Incubator shaker
-
-### Analytical balance
-
-### Refrigerated centrifuge
-
-<img width="221" src="/image/machine/centrifuge1.jpg">  
-
-### Cellular centrifuge
-
-<img width="221" src="/image/machine/centrifuge2.jpg">  
-
-### Electroporator
-
-### Ultrasonic cleaner
-
-<img width="221" src="/image/machine/ultrasoniccleaner.jpg">  
-
-### Injection pump
-
-### Spin coater 
-
-<img width="450" src="/image/machine/spincoater.jpg">  
-
-### Spectrophotometer
-
-<img width="333" src="/image/machine/spectrophotometer.jpg">  
-
-### Ice maker
+## Main equipments
 
 
-### Autoclave
+
+This are some of the main machines in the space. Reagents and other small instruments (As micro-pipettes) are not listed below. You could contact the laboratory assistant for more information.
 
 
-### Water bath
 
+### General equipment
 
-### Microwave
-
-
-### Lab oven
-
-
-### Ultra pure Water Machine
-
-
-### Orbital shaker
-
-<img width="221" src="/image/machine/shaker.jpg">  
-
-
-### Nanodrop spectrophotometer
-
-<img width="166" src="/image/machine/microdrop.jpg">  
-
-### Incubator1 (for bacteria)
-
-### Incubator2 （for non-bacteria)
-
-###  Laminar Flow Hood
+####  Laminar Flow Hood
 
 <img width="450" src="/image/machine/hood.jpg">  
 
-<<<<<<< HEAD
-### Fume hood
-=======
-###  Fume Hood
+####  Fume Hood
 
 <img width="450" src="/image/machine/fumehood.jpg">  
 
+#### Orbital shaker
+
+<img width="221" src="/image/machine/shaker.jpg">  
+
+#### Microwave
+
+#### Magnetic stirrers
+
+#### Analytical balance
+
+#### Ice maker
+
+
+#### Autoclave
+
+
+#### Water bath
+
+#### Lab oven
+
+
+
+
+
+### Molecular biology
+
+#### PCR Machine 
+
+（Thermocycler / DNA amplifier)   
+
+<img align="left" width="221" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+This BioRad Thermocycler will allow the users of the space to precisely amplify genetic material (DNA/RNA). Book your time prior to its use in the on-lab lists.
+
+#### Refrigerated centrifuge
+
+<img width="221" src="/image/machine/centrifuge1.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+This machine is used to separate the different compounds of a dilution due to their differences in density. At present this centrifuge is working with 1.5 mL eppendorf tubes.
+
+#### Spectrophotometer
+
+<img width="333" src="/image/machine/spectrophotometer.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+#### Nanodrop spectrophotometer
+
+<img width="166" src="/image/machine/microdrop.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
 ### UV Analyzer
 
-<img width="221" src="/image/machine/uvanalyzer.jpg"> 
+<img width="221" src="/image/machine/uvanalyzer.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px"> 
 
-### Bio Microscope 
+#### Ultra pure Water Machine
+
+#### Electrophoresis equipment
+
+#### pH Meter
+
+### 
+
+### Cellular cultures
+
+#### Incubator shaker
+
+#### Cellular centrifuge
+
+<img width="221" src="/image/machine/centrifuge2.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+This machine is used to separate the cells in a dilution due to their differences in density. This machine have different rotors for working with 15mL & 50mL falcon tubes.
+
+#### Electroporator
+
+#### Incubator1 (for bacteria)
+
+#### Incubator2 （for non-bacteria)
+
+
+
+### Microfluidics
+
+#### Plasma cleaner
+
+<img width="333" src="/image/machine/plasmacleaner.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+Generally used for activating material surfaces. In our lab is actually used for performing PDMS surface activation for its subsequent covalent binding to other surfaces.
+
+#### Ultrasonic cleaner
+
+<img width="221" src="/image/machine/ultrasoniccleaner.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+#### Injection pump
+
+#### Spin coater 
+
+<img width="450" src="/image/machine/spincoater.jpg" align="left" src="/image/machine/pcr.jpg" style="cursor: zoom-in; margin:50px 30px 50px 50px">  
+
+
+
+### Microscopy
+
+#### Bio Microscope 
 >>>>>>> 56afd92dc52fdb7e1f5f9eb2a4c3c4b773b11d8c
