@@ -45,8 +45,8 @@ module.exports = {
                     {
                         text: 'About',
                         items: [
-                            { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/' }, 
-                            { text: 'Tsinghua SIGS', link: 'https://www-en.sz.tsinghua.edu.cn/'},
+                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/' }, 
+                            // { text: 'Tsinghua SIGS', link: 'https://www-en.sz.tsinghua.edu.cn/'},
                             { text: 'About the Lab', link: '/about/' }
                         ]
                     }
@@ -89,8 +89,8 @@ module.exports = {
                     {
                         text: '关于',
                         items: [
-                            { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/cn/' },
-                            { text: '清华大学深圳国际研究生院', link: 'https://www.sigs.tsinghua.edu.cn/'},
+                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/cn/' },
+                            // { text: '清华大学深圳国际研究生院', link: 'https://www.sigs.tsinghua.edu.cn/'},
                             { text: '关于实验室', link: '/zh/about/' }
                         ]
                     },
