@@ -1,7 +1,7 @@
 <TOC />
 
 
- :::: tabs type:border-card
+:::: tabs type:border-card
 ::: tab General
  
  [Laminar Flow Hood](bio/#laminar-flow-hood) |
@@ -13,7 +13,7 @@
  [Ice Maker](bio/#ice-maker) |
  [Autoclave](bio/#autoclave) |
  [Water Bath](bio/#water-bath) |
- [Lab Oven](bio/#lab-oven) |
+ [Lab Oven](bio/#lab-oven) 
 
 :::
 
@@ -27,7 +27,9 @@
  [UV Analyzer](bio/#uv-analyzer) |
  [Ultra pure Water Machine](bio/#ultra-pure-water-machine) |
  [Electrophoresis equipment](bio/#electrophoresis-equipment) |
- [pH Meter](bio/#ph-meter) 
+ [pH Meter](bio/#ph-meter) |
+ [Homogenizer](bio/#homogenizer) |
+ [Rotating Mixer](bio/#rotating-mixer)
 
 :::
 
@@ -37,7 +39,8 @@
 [Cellular Centrifuge](bio/#cellular-centrifuge) |
 [Electroporator](bio/#electroporator) |
 [Incubator for for bacteria](bio/#incubator-bacteria) |
-[Incubator for for non-bacteria](bio/#incubator-non-bacteria))
+[Incubator for for non-bacteria](bio/#incubator-non-bacteria)) |
+[Infrared sterilizer](bio/#infrared-sterilizer)
 
 :::
 
@@ -47,7 +50,8 @@
 [Plasma Cleaner](bio/#plasma-cleaner) |
 [Ultrasonic cleaner](bio/#ultrasonic-cleaner) |
 [Injection Pump](bio/#injection-pump) |
-[Spin Coater](bio/#spin-coater)
+[Spin Coater](bio/#spin-coater) |
+[Vacuum Pump](bio/#vacuum-pump)
 
 
 :::
@@ -55,7 +59,8 @@
 
 ::: tab Bio-optics
 
-[Bio Microscope](bio/#bio-microscope)
+[Bio Microscope](bio/#bio-microscope) |
+[Dissecting Microscope](bio/#dissecting-microscope)
 
 :::
 
@@ -115,6 +120,8 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 
 This machine is used to separate the cells in a dilution due to their differences in density. This machine have different rotors for working with 15mL & 50mL falcon tubes.  
 
+### Dissecting Microscope
+
 ### Electroporator
 
 
@@ -122,14 +129,20 @@ This machine is used to separate the cells in a dilution due to their difference
 
 ### Fume Hood
 
-<img width="450" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
+<img width="400" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
 
+
+### Homogenizer
+
+<img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">  
 
 ### Ice maker
 
 
 
 ### Incubator Shaker
+
+### Infrared sterilizer
 
 ### Injection Pump
 
@@ -142,7 +155,7 @@ This machine is used to separate the cells in a dilution due to their difference
 
 ### Laminar Flow Hood
 
-<img width="450" src="/image/machine/hood.jpg" style="margin:20px 10px 20px 10px">  
+<img width="400" src="/image/machine/hood.jpg" style="margin:20px 10px 20px 10px">  
 
 
 ### Magnetic stirrers
@@ -178,6 +191,10 @@ This BioRad Thermocycler will allow the users of the space to precisely amplify 
 
 Generally used for activating material surfaces. In our lab ts main role is for performing PDMS surface activation for its subsequent covalent binding to other surfaces.
 
+### Rotating Mixer
+
+<img width="221" src="/image/machine/mixer.jpg" style="margin:20px 10px 20px 10px">  
+
 ### Refrigerated Centrifuge
 
 <img width="221" src="/image/machine/centrifuge1.jpg" style="margin:20px 10px 20px 10px">  
@@ -208,5 +225,8 @@ This machine is used to separate the different compounds of a dilution due to th
 <img width="221" src="/image/machine/uvanalyzer.jpg" style="margin:20px 10px 20px 10px"> 
 
 
+### Vacuum Pump
+
+<img width="221" src="/image/machine/vacuum.jpg" style="margin:20px 10px 20px 10px"> 
 
 ### Water Bath
