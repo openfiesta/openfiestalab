@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-
-:::: tabs type:border-card
-
->>>>>>> 0586d0888c937b53d62b615ab9a92964973ccb75
 ## Intro of the Bio-X Lab
 
 The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
@@ -109,8 +103,7 @@ This are some of the main machines in the space. Reagents and other small instru
 
 :::
 
-<<<<<<< HEAD
-=======
+
 
 ::: tab Bio-optics
 
@@ -118,8 +111,6 @@ This are some of the main machines in the space. Reagents and other small instru
 [Dissecting Microscope](bio/#dissecting-microscope)
 
 :::
-
->>>>>>> 0586d0888c937b53d62b615ab9a92964973ccb75
 ::::
 
 ### Analytical balance
