@@ -83,11 +83,7 @@ This are some of the main machines in the space. Reagents and other small instru
  [Electrophoresis equipment](bio/#electrophoresis-equipment) |
  [pH Meter](bio/#ph-meter) |
  [Homogenizer](bio/#homogenizer) |
- [Rotating Mixer](bio/#rotating-mixer)
-
- [Western Blot](bio/#Western-Blot) |
-
- [Vacuum pump](bio/#Vacuum-pump) 
+ [Rotating Mixer](bio/#rotating-mixer) | [Western Blot](bio/#Western-Blot) |[Vacuum pump](bio/#Vacuum-pump) 
 
 :::
 
