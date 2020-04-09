@@ -1,8 +1,5 @@
 
-
-<<<<<<< HEAD
 :::: tabs type:border-card
-=======
 
 ## Intro of the Bio-X Lab
 
@@ -46,7 +43,6 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 This are some of the main machines in the space. Reagents and other small instruments (As micro-pipettes) are not listed below. You could contact the laboratory assistant for more information.
 
  :::: tabs type:border-card
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 ::: tab General
 
  [Laminar Flow Hood](bio/#laminar-flow-hood) |
@@ -76,15 +72,12 @@ This are some of the main machines in the space. Reagents and other small instru
  [Ultra pure water machine](bio/#ultra-pure-water-machine) |
  [Electrophoresis equipment](bio/#electrophoresis-equipment) |
  [pH Meter](bio/#ph-meter) |
-<<<<<<< HEAD
  [Homogenizer](bio/#homogenizer) |
  [Rotating Mixer](bio/#rotating-mixer)
-=======
 
  [Western Blot](bio/#Western-Blot) |
 
  [Vacuum pump](bio/#Vacuum-pump) 
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 :::
 
@@ -93,14 +86,11 @@ This are some of the main machines in the space. Reagents and other small instru
 [Incubator shaker](bio/#incubator-shaker) |
 [Cellular Centrifuge](bio/#cellular-centrifuge) |
 [Electroporator](bio/#electroporator) |
-<<<<<<< HEAD
 [Incubator for for bacteria](bio/#incubator-bacteria) |
 [Incubator for for non-bacteria](bio/#incubator-non-bacteria)) |
 [Infrared sterilizer](bio/#infrared-sterilizer)
-=======
 [Incubator for bacteria](bio/#incubator-bacteria) |
 [Incubator for non-bacteria](bio/#incubator-non-bacteria))
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 :::
 
@@ -119,12 +109,8 @@ This are some of the main machines in the space. Reagents and other small instru
 
 ::: tab Bio-optics
 
-<<<<<<< HEAD
 [Bio Microscope](bio/#bio-microscope) |
 [Dissecting Microscope](bio/#dissecting-microscope)
-=======
-
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 :::
 
@@ -161,13 +147,10 @@ Composed by a power supply connected to a gel bucket. We have both equipments fo
 <img width="400" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
 
 
-<<<<<<< HEAD
 ### Homogenizer
 
 <img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">  
-=======
 Used for working with volatile compounds (Organic dis solvents, smelly reagents...)
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 
 ### Ice maker
@@ -176,13 +159,10 @@ Used for working with volatile compounds (Organic dis solvents, smelly reagents.
 
 For incubating flasks and Erlenmeyers and scale a culture. It's mainly used with bacterias.
 
-<<<<<<< HEAD
 ### Infrared sterilizer
 
 ### Injection Pump
-=======
 ### Syringe Pump
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 
 ### Incubator (bacteria)
@@ -277,14 +257,10 @@ This machines have two modes: Reverse osmosis grade water and [ultra-pure](https
 
 <img width="221" src="/image/machine/uvanalyzer.jpg" style="margin:20px 10px 20px 10px"> 
 
-<<<<<<< HEAD
 
 ### Vacuum Pump
 
 <img width="221" src="/image/machine/vacuum.jpg" style="margin:20px 10px 20px 10px"> 
-=======
-### Vacuum pump
->>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 ### Water Bath
 
