@@ -155,11 +155,12 @@ Composed by a power supply connected to a gel bucket. We have both equipments fo
 
 <img width="400" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
 
+Used for working with volatile compounds (Organic dis solvents, smelly reagents...)
+
 
 ### Homogenizer
 
-<img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">  
-Used for working with volatile compounds (Organic dis solvents, smelly reagents...)
+<img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">
 
 
 ### Ice maker
