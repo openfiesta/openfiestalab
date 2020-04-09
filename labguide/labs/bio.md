@@ -22,7 +22,7 @@ To address this, the space has some rules that reflect the good practices that a
 **These rules are the following:**
 
 - Prior to starting any new project, communicate it to the laboratory assistant, to check the availability of the space, the risk assessment and the guidelines.
-- Never eat on the Bio-X-Space. The organisms here are meant to be in a petri dish or an Erlenmeyer, no inside a sandwich.
+- Never eat on the Bio-X-Space. The organisms here are meant to be in a petri dish or in an Erlenmeyer, not inside a sandwich.
 - Do a respectful use of the space. Clean everything after its use, plug off the machines, inscribe yourself in the equipment lists...
 
 
@@ -106,6 +106,7 @@ This are some of the main machines in the space. Reagents and other small instru
 
 :::
 
+<<<<<<< HEAD
 
 ::: tab Bio-optics
 
@@ -114,6 +115,8 @@ This are some of the main machines in the space. Reagents and other small instru
 
 :::
 
+=======
+>>>>>>> 2b52da16a309885aaf565bf965707ec22506c7dd
 ::::
 
 ### Analytical balance
