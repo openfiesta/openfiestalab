@@ -103,7 +103,11 @@ This are some of the main machines in the space. Reagents and other small instru
 
 :::
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> 9f6ce4a68349f3c0b8f202e2f18e92ceb0bc5d91
 
 ::: tab Bio-optics
 
@@ -111,6 +115,12 @@ This are some of the main machines in the space. Reagents and other small instru
 [Dissecting Microscope](bio/#dissecting-microscope)
 
 :::
+<<<<<<< HEAD
+=======
+
+=======
+>>>>>>> 2b52da16a309885aaf565bf965707ec22506c7dd
+>>>>>>> 9f6ce4a68349f3c0b8f202e2f18e92ceb0bc5d91
 ::::
 
 ### Analytical balance
