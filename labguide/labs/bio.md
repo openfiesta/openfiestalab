@@ -1,77 +1,12 @@
-<TOC />
 
 
+<<<<<<< HEAD
 :::: tabs type:border-card
-::: tab General
- 
- [Laminar Flow Hood](bio/#laminar-flow-hood) |
- [Fume Hood](bio/#fume-hood)  |
- [Orbital Shaker](bio/#orbital-shaker) |
- [Microwave](bio/#microwave) |
- [Magnetic Stirrers](bio/#magnetic-stirrers) |
- [Analytical Balance](bio/#analytical-balance) |
- [Ice Maker](bio/#ice-maker) |
- [Autoclave](bio/#autoclave) |
- [Water Bath](bio/#water-bath) |
- [Lab Oven](bio/#lab-oven) 
-
-:::
-
-
-::: tab Molecular Biology
-
- [PCR Machine](bio/#pcr-machine) |
- [Refrigerated Centrifuge](bio/#refrigerated-centrifuge) |
- [Spectrophotometer](bio/#spectrophotometer) |
- [Micro Drop spectrophotometer](bio/#micro-drop-spectrophotometer) |
- [UV Analyzer](bio/#uv-analyzer) |
- [Ultra pure Water Machine](bio/#ultra-pure-water-machine) |
- [Electrophoresis equipment](bio/#electrophoresis-equipment) |
- [pH Meter](bio/#ph-meter) |
- [Homogenizer](bio/#homogenizer) |
- [Rotating Mixer](bio/#rotating-mixer)
-
-:::
-
-::: tab Cell Culture
-
-[Incubator Shaker](bio/#incubator-shaker) |
-[Cellular Centrifuge](bio/#cellular-centrifuge) |
-[Electroporator](bio/#electroporator) |
-[Incubator for for bacteria](bio/#incubator-bacteria) |
-[Incubator for for non-bacteria](bio/#incubator-non-bacteria)) |
-[Infrared sterilizer](bio/#infrared-sterilizer)
-
-:::
-
-
-::: tab Microfluidics
-
-[Plasma Cleaner](bio/#plasma-cleaner) |
-[Ultrasonic cleaner](bio/#ultrasonic-cleaner) |
-[Injection Pump](bio/#injection-pump) |
-[Spin Coater](bio/#spin-coater) |
-[Vacuum Pump](bio/#vacuum-pump)
-
-
-:::
-
-
-::: tab Bio-optics
-
-[Bio Microscope](bio/#bio-microscope) |
-[Dissecting Microscope](bio/#dissecting-microscope)
-
-:::
-
-::::
-
-This are some of the main machines in the space. Reagents and other small instruments (As micro-pipettes) are not listed below. You could contact the laboratory assistant for more information.
-
+=======
 
 ## Intro of the Bio-X Lab
 
-The Bio-X Lab is an interdisplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
+The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
 
 In this space, you will find different equipment for working from molecular biology, genetics to microfluidics. 
 
@@ -97,7 +32,7 @@ To address this, the space has some rules that reflect the good practices that a
 
 ## The laboratory assistant
 
-<img align="left" width="221" src="/image/fran.JPG" style="margin:20px 10px 20px 10px">
+<img align="left" width="221" src="/image/fran.png" style="margin:20px 10px 20px 10px">
 
 Fran Quero is a biologist by train and a DIYbio enthusiast engaged in developing open biology communities. Fran helped to create the first open citizen biofablab of Madrid (Spain), and found the first collegiate and High School iGEM teams of the city.
 
@@ -108,43 +43,146 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 
 ## The Equipment List
 
+This are some of the main machines in the space. Reagents and other small instruments (As micro-pipettes) are not listed below. You could contact the laboratory assistant for more information.
+
+ :::: tabs type:border-card
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
+::: tab General
+
+ [Laminar Flow Hood](bio/#laminar-flow-hood) |
+ [Fume Hood](bio/#fume-hood)  |
+ [Orbital Shaker](bio/#orbital-shaker) |
+ [Microwave](bio/#microwave) |
+
+[Bio Microscope](bio/#bio-microscope)|
+
+ [Magnetic Stirrers](bio/#magnetic-stirrers) |
+ [Analytical Balance](bio/#analytical-balance) |
+ [Ice Maker](bio/#ice-maker) |
+ [Autoclave](bio/#autoclave) |
+ [Water Bath](bio/#water-bath) |
+ [Lab Oven](bio/#lab-oven) 
+
+:::
+
+
+::: tab Molecular Biology
+
+ [PCR Machine](bio/#pcr-machine) |
+ [Refrigerated Centrifuge](bio/#refrigerated-centrifuge) |
+ [Spectrophotometer](bio/#spectrophotometer) |
+ [Micro Drop spectrophotometer](bio/#micro-drop-spectrophotometer) |
+ [UV Analyzer](bio/#uv-analyzer) |
+ [Ultra pure water machine](bio/#ultra-pure-water-machine) |
+ [Electrophoresis equipment](bio/#electrophoresis-equipment) |
+ [pH Meter](bio/#ph-meter) |
+<<<<<<< HEAD
+ [Homogenizer](bio/#homogenizer) |
+ [Rotating Mixer](bio/#rotating-mixer)
+=======
+
+ [Western Blot](bio/#Western-Blot) |
+
+ [Vacuum pump](bio/#Vacuum-pump) 
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
+
+:::
+
+::: tab Cell Culture
+
+[Incubator shaker](bio/#incubator-shaker) |
+[Cellular Centrifuge](bio/#cellular-centrifuge) |
+[Electroporator](bio/#electroporator) |
+<<<<<<< HEAD
+[Incubator for for bacteria](bio/#incubator-bacteria) |
+[Incubator for for non-bacteria](bio/#incubator-non-bacteria)) |
+[Infrared sterilizer](bio/#infrared-sterilizer)
+=======
+[Incubator for bacteria](bio/#incubator-bacteria) |
+[Incubator for non-bacteria](bio/#incubator-non-bacteria))
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
+
+:::
+
+
+::: tab Microfluidics
+
+[Plasma Cleaner](bio/#plasma-cleaner) |
+[Ultrasonic cleaner](bio/#ultrasonic-cleaner) |
+[Injection Pump](bio/#injection-pump) |
+[Spin Coater](bio/#spin-coater) |
+[Vacuum Pump](bio/#vacuum-pump)
+
+
+:::
+
+
+::: tab Bio-optics
+
+<<<<<<< HEAD
+[Bio Microscope](bio/#bio-microscope) |
+[Dissecting Microscope](bio/#dissecting-microscope)
+=======
+
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
+
+:::
+
+::::
+
 ### Analytical balance
 
 ### Autoclave
 
+Used to sterilize laboratory disposables, reagents and equipments, with heat and pressure.
+
 ### Bio Microscope 
+
+Actually working with magnification lenses of 4x, 10x, 20x, and 100x.
 
 ### Cellular Centrifuge
 
 <img width="221" src="/image/machine/centrifuge2.jpg" style="margin:20px 10px 20px 10px">  
 
-This machine is used to separate the cells in a dilution due to their differences in density. This machine have different rotors for working with 15mL & 50mL falcon tubes.  
+Used to separate the cells in a dilution due to their differences in density. This machine have different rotors for working with 15mL & 50mL falcon tubes.  
 
 ### Dissecting Microscope
 
 ### Electroporator
 
+Used for transforming bacterias with external DNA by electric shocks.
 
 ### Electrophoresis equipment
+
+Composed by a power supply connected to a gel bucket. We have both equipments for horizontal (DNA gels) and vertical (Western Blot) gels. Mainly used in the lab for separating & analyze DNA and proteins by size.
 
 ### Fume Hood
 
 <img width="400" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
 
 
+<<<<<<< HEAD
 ### Homogenizer
 
 <img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">  
+=======
+Used for working with volatile compounds (Organic dis solvents, smelly reagents...)
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
+
 
 ### Ice maker
 
+### Incubator shaker
 
+For incubating flasks and Erlenmeyers and scale a culture. It's mainly used with bacterias.
 
-### Incubator Shaker
-
+<<<<<<< HEAD
 ### Infrared sterilizer
 
 ### Injection Pump
+=======
+### Syringe Pump
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 
 ### Incubator (bacteria)
@@ -153,26 +191,36 @@ This machine is used to separate the cells in a dilution due to their difference
 
 ### Lab oven
 
+Mainly used for baking PDMS chips for microfluidics. Heats in a range of 40 to 250ºC. 
+
 ### Laminar Flow Hood
 
 <img width="400" src="/image/machine/hood.jpg" style="margin:20px 10px 20px 10px">  
 
+Used for working in sterile conditions. 
+
+[WARNING] Do NOT use this flow hood with bacterias. It's meant to be used for other organisms as plants, microfluidics or prepare culture mediums. For working with sterile conditions with bacterias use the Bunsen lighters.
 
 ### Magnetic stirrers
 
-### Micro Drop Spectrophotometer
+Mainly used in the laboratory for helping to dissolve solid reagents in a solvent. Please, take special care of cleaning the magnets after it's used.
 
+### Micro Drop Spectrophotometer
 
 <img width="166" src="/image/machine/microdrop.jpg" style="margin:20px 10px 20px 10px">  
 
+Same principle of the [Spectrophotometer](bio/#spectrophotometer) but for analyzing very low volumes (droplets). Usually used for analyzing DNA/RNA/Protein concentrations after a purification.
+
 ### Microwave
+
+Mainly used for agar preparation.
 
 
 ### Orbital Shaker
 
 <img width="221" src="/image/machine/shaker.jpg" style="margin:20px 10px 20px 10px">  
 
-
+Used for different incubations (Western blot membranes, ELISA tests...).
 
 ### PCR Machine 
 
@@ -206,13 +254,18 @@ This machine is used to separate the different compounds of a dilution due to th
 
 <img width="333" src="/image/machine/spectrophotometer.jpg" style="margin:20px 10px 20px 10px">  
 
+Used for analyzing the composition of a dilution based in the absorbency pattern of its different compounds.
+
 
 ### Spin Coater 
 
 <img width="450" src="/image/machine/spincoater.jpg" style="margin:20px 10px 20px 10px">  
 
+Used for evenly covering a surface with a liquid reagent thanks to a centrifugal forces.
 
-### Ultra pure Water Machine
+### Ultra pure water machine
+
+This machines have two modes: Reverse osmosis grade water and [ultra-pure](https://en.wikipedia.org/wiki/Ultrapure_water) water.
 
 
 ### Ultrasonic cleaner
@@ -224,9 +277,17 @@ This machine is used to separate the different compounds of a dilution due to th
 
 <img width="221" src="/image/machine/uvanalyzer.jpg" style="margin:20px 10px 20px 10px"> 
 
+<<<<<<< HEAD
 
 ### Vacuum Pump
 
 <img width="221" src="/image/machine/vacuum.jpg" style="margin:20px 10px 20px 10px"> 
+=======
+### Vacuum pump
+>>>>>>> ea3e19819ffc57107e0792610b3a3c85b1099100
 
 ### Water Bath
+
+### Western Blot
+
+Used for transferring negative charged molecules (Usually proteins) to a membrane (usually made of PVDF or nitrocellulose).
