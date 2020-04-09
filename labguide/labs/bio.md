@@ -45,11 +45,7 @@ This are some of the main machines in the space. Reagents and other small instru
  [Laminar Flow Hood](bio/#laminar-flow-hood) |
  [Fume Hood](bio/#fume-hood)  |
  [Orbital Shaker](bio/#orbital-shaker) |
- [Microwave](bio/#microwave) |
-
-[Bio Microscope](bio/#bio-microscope)|
-
- [Magnetic Stirrers](bio/#magnetic-stirrers) |
+ [Microwave](bio/#microwave) | [Magnetic Stirrers](bio/#magnetic-stirrers) |
  [Analytical Balance](bio/#analytical-balance) |
  [Ice Maker](bio/#ice-maker) |
  [Autoclave](bio/#autoclave) |
@@ -103,24 +99,13 @@ This are some of the main machines in the space. Reagents and other small instru
 
 :::
 
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
->>>>>>> 9f6ce4a68349f3c0b8f202e2f18e92ceb0bc5d91
-
 ::: tab Bio-optics
 
 [Bio Microscope](bio/#bio-microscope) |
 [Dissecting Microscope](bio/#dissecting-microscope)
 
 :::
-<<<<<<< HEAD
-=======
 
-=======
->>>>>>> 2b52da16a309885aaf565bf965707ec22506c7dd
->>>>>>> 9f6ce4a68349f3c0b8f202e2f18e92ceb0bc5d91
 ::::
 
 ### Analytical balance
