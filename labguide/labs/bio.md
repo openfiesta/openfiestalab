@@ -1,4 +1,4 @@
-## Intro of the Bio-X Lab
+## Introduction to the Bio-X Lab
 
 The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
 
@@ -20,7 +20,22 @@ To address this, the space has some rules that reflect the good practices that a
 
 - Prior to starting any new project, communicate it to the laboratory assistant, to check the availability of the space, the risk assessment and the guidelines.
 - Never eat on the Bio-X-Space. The organisms here are meant to be in a petri dish or in an Erlenmeyer, not inside a sandwich.
-- Do a respectful use of the space. Clean everything after its use, plug off the machines, inscribe yourself in the equipment lists...
+- Do a respectful use of the space. Clean everything after its use, plug off the machines, inscribe yourself in the equipment lists.
+- Plan ahead! Identify risks and hazards specific to your experiments!
+  - List all genetically modified organisms you will work with and make sure they are only group 1 organisms.
+  - Learn to use any equipment needed in advance.
+  - Consult material and safety data sheets (MSDS) for each chemical needed for your experiment.
+  - Determine possible emergency procedures and practice them. Locate emergency equipment (chemical and spill kits, eyewash station, first aid).
+- Put on adequate personal protective equipment. The minimal requirement is:
+  - Lab coat with long sleeves, for work in bench areas.
+  - Protective gloves.
+  - Closed shoes.
+- Pipetting by mouth is totally prohibited.
+- If the experiments have high chances of creating aerosols, perform it inside the fume chamber.
+- Always remove the gloves for activities not related with the experiment or who use public infrastructures (Opening doors, answering the phone, using a keyboard...).
+- Label items with notes an initials.
+- Except for special experiments, cultures larger than 0.5L are prohibited.
+- Follow the disposal guidelines. For more information ask the laboratory assistant.
 
 
 
@@ -33,6 +48,8 @@ Fran Quero is a biologist by train and a DIYbio enthusiast engaged in developing
 Professionally e have expertise in tissue engineering, nanotechnology, and biosensing. A complete electronics nerd, and a DIYBiologist by heart.
 
 He is graduated in biological sciences in the Complutense University of Madrid and now he is enrolled as a student of the BIO3 master of Open FIESTA faculty.
+
+You could contact him at franxi2953@gmail.com.
 
 
 ## The Equipment List
