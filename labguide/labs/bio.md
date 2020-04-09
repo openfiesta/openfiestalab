@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+
+:::: tabs type:border-card
+
+>>>>>>> 0586d0888c937b53d62b615ab9a92964973ccb75
 ## Intro of the Bio-X Lab
 
 The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
@@ -54,7 +60,7 @@ This are some of the main machines in the space. Reagents and other small instru
  [Ice Maker](bio/#ice-maker) |
  [Autoclave](bio/#autoclave) |
  [Water Bath](bio/#water-bath) |
- [Lab Oven](bio/#lab-oven) |
+ [Lab Oven](bio/#lab-oven) 
 
 :::
 
@@ -69,6 +75,8 @@ This are some of the main machines in the space. Reagents and other small instru
  [Ultra pure water machine](bio/#ultra-pure-water-machine) |
  [Electrophoresis equipment](bio/#electrophoresis-equipment) |
  [pH Meter](bio/#ph-meter) |
+ [Homogenizer](bio/#homogenizer) |
+ [Rotating Mixer](bio/#rotating-mixer)
 
  [Western Blot](bio/#Western-Blot) |
 
@@ -81,6 +89,9 @@ This are some of the main machines in the space. Reagents and other small instru
 [Incubator shaker](bio/#incubator-shaker) |
 [Cellular Centrifuge](bio/#cellular-centrifuge) |
 [Electroporator](bio/#electroporator) |
+[Incubator for for bacteria](bio/#incubator-bacteria) |
+[Incubator for for non-bacteria](bio/#incubator-non-bacteria)) |
+[Infrared sterilizer](bio/#infrared-sterilizer)
 [Incubator for bacteria](bio/#incubator-bacteria) |
 [Incubator for non-bacteria](bio/#incubator-non-bacteria))
 
@@ -92,11 +103,23 @@ This are some of the main machines in the space. Reagents and other small instru
 [Plasma Cleaner](bio/#plasma-cleaner) |
 [Ultrasonic cleaner](bio/#ultrasonic-cleaner) |
 [Injection Pump](bio/#injection-pump) |
-[Spin Coater](bio/#spin-coater)
+[Spin Coater](bio/#spin-coater) |
+[Vacuum Pump](bio/#vacuum-pump)
 
 
 :::
 
+<<<<<<< HEAD
+=======
+
+::: tab Bio-optics
+
+[Bio Microscope](bio/#bio-microscope) |
+[Dissecting Microscope](bio/#dissecting-microscope)
+
+:::
+
+>>>>>>> 0586d0888c937b53d62b615ab9a92964973ccb75
 ::::
 
 ### Analytical balance
@@ -115,6 +138,8 @@ Actually working with magnification lenses of 4x, 10x, 20x, and 100x.
 
 Used to separate the cells in a dilution due to their differences in density. This machine have different rotors for working with 15mL & 50mL falcon tubes.  
 
+### Dissecting Microscope
+
 ### Electroporator
 
 Used for transforming bacterias with external DNA by electric shocks.
@@ -125,8 +150,12 @@ Composed by a power supply connected to a gel bucket. We have both equipments fo
 
 ### Fume Hood
 
-<img width="450" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
+<img width="400" src="/image/machine/fumehood.jpg" style="margin:20px 10px 20px 10px">  
 
+
+### Homogenizer
+
+<img width="166" src="/image/machine/homogenizer.jpg" style="margin:20px 10px 20px 10px">  
 Used for working with volatile compounds (Organic dis solvents, smelly reagents...)
 
 
@@ -136,6 +165,9 @@ Used for working with volatile compounds (Organic dis solvents, smelly reagents.
 
 For incubating flasks and Erlenmeyers and scale a culture. It's mainly used with bacterias.
 
+### Infrared sterilizer
+
+### Injection Pump
 ### Syringe Pump
 
 
@@ -149,7 +181,7 @@ Mainly used for baking PDMS chips for microfluidics. Heats in a range of 40 to 2
 
 ### Laminar Flow Hood
 
-<img width="450" src="/image/machine/hood.jpg" style="margin:20px 10px 20px 10px">  
+<img width="400" src="/image/machine/hood.jpg" style="margin:20px 10px 20px 10px">  
 
 Used for working in sterile conditions. 
 
@@ -193,6 +225,10 @@ This BioRad Thermocycler will allow the users of the space to precisely amplify 
 
 Generally used for activating material surfaces. In our lab ts main role is for performing PDMS surface activation for its subsequent covalent binding to other surfaces.
 
+### Rotating Mixer
+
+<img width="221" src="/image/machine/mixer.jpg" style="margin:20px 10px 20px 10px">  
+
 ### Refrigerated Centrifuge
 
 <img width="221" src="/image/machine/centrifuge1.jpg" style="margin:20px 10px 20px 10px">  
@@ -227,7 +263,10 @@ This machines have two modes: Reverse osmosis grade water and [ultra-pure](https
 
 <img width="221" src="/image/machine/uvanalyzer.jpg" style="margin:20px 10px 20px 10px"> 
 
-### Vacuum pump
+
+### Vacuum Pump
+
+<img width="221" src="/image/machine/vacuum.jpg" style="margin:20px 10px 20px 10px"> 
 
 ### Water Bath
 

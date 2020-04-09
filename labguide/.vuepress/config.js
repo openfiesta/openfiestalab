@@ -32,8 +32,16 @@ module.exports = {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
-                    { text: 'Guide', link: '/guide/' },
-                    { text: 'Residency', link: '/residency/'},
+                    { text: 'Guide', link: '/labs/' },
+                    {
+                        text: 'Join us',
+                        items: [
+                            { text: 'Residency Program', link: '/residency/' },
+                            { text: 'Event & Workshop', link: '/events/' },
+                            { text: 'Student Club', link: '/club/' },
+                            { text: 'Master Program', link: 'http://www.fiesta.tsinghua.edu.cn/admissions' }
+                        ]
+                    },
                     {
                         text: 'About',
                         items: [
@@ -47,7 +55,6 @@ module.exports = {
                 label: 'English',
 //                lastUpdated: 'Last Updated',
                 sidebar: [
-                    ['/introduction', 'Introduction'],
                     {
                         title: 'Labs',
                         path: '/labs/',
@@ -69,8 +76,16 @@ module.exports = {
             '/zh/': {
                 nav: [
                     { text: '主页', link: '/zh/' },
-                    { text: '指南', link: '/zh/guide/' },
-                    { text: '入驻', link: '/zh/residency'},
+                    { text: '指南', link: '/zh/labs/' },
+                    {
+                        text: '加入我们',
+                        items: [
+                            { text: '入驻项目', link: '/zh/residency/' },
+                            { text: '开放活动', link: '/zh/events/' },
+                            { text: '学生社团', link: '/zh/club/' },
+                            { text: '硕士项目', link: 'http://www.fiesta.tsinghua.edu.cn/cn/admissions' }
+                        ]
+                    },
                     {
                         text: '关于',
                         items: [
@@ -84,7 +99,6 @@ module.exports = {
 //                lastUpdated: '最近更新时间',
                 displayAllHeaders: true,
                 sidebar: [
-                    ['/zh/introduction', '简介'],
                     {
                         title: '实验室',
                         path: '/zh/labs/',

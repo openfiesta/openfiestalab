@@ -4,7 +4,7 @@ heroImage: /image/logomain.png
 heroText: 实验室平台
 tagline: Open FIESTA清华深圳
 actionText: 实验室导览 →
-actionLink: /zh/guide/
+actionLink: /zh/labs/
 features:
 - title: 生命健康交叉实验室(J213)
   details: 
@@ -12,7 +12,7 @@ features:
   details: 
 - title: 创意交互空间（J212）
   details: 
-footer: Copyright © 2019-2020 Open FIESTA
+footer: MIT Licensed | Copyright © 2019-2020 Open FIESTA
 comment: false
 ---
 
