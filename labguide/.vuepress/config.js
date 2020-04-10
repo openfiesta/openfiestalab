@@ -42,6 +42,7 @@ module.exports = {
                             { text: 'Master Program', link: 'http://www.fiesta.tsinghua.edu.cn/admissions' }
                         ]
                     },
+                    { text: 'Project', link: '/projects/'},
                     {
                         text: 'About',
                         items: [
@@ -68,9 +69,7 @@ module.exports = {
                     ['/learning', 'Learning'],
                     ['/projects', 'Project'],
                     ['/toolbox', 'Toolbox'],
-                    ['/events', 'Event'],
-                    ['/club', 'Club'],
-                    ['/link', 'Link'],
+                    ['/link', 'Friendly Link']
                 ]
             },
             '/zh/': {
@@ -86,6 +85,7 @@ module.exports = {
                             { text: '硕士项目', link: 'http://www.fiesta.tsinghua.edu.cn/cn/admissions' }
                         ]
                     },
+                    { text: '项目', link: '/zh/projects/'},
                     {
                         text: '关于',
                         items: [
@@ -112,9 +112,7 @@ module.exports = {
                     ['/zh/learning', '学习'],
                     ['/zh/projects', '项目'],
                     ['/zh/toolbox', '工具箱'],
-                    ['/zh/events', '活动'],
-                    ['/zh/club', '社团协会'],
-                    ['/zh/link', '友情链接'],
+                    ['/zh/link', '友情链接']
                 ]
             }
         }

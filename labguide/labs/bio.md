@@ -1,4 +1,4 @@
-## Introduction to the Bio-X Lab
+## Introduction
 
 The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
 
@@ -52,7 +52,7 @@ He is graduated in biological sciences in the Complutense University of Madrid a
 You could contact him at franxi2953@gmail.com.
 
 
-## The Equipment List
+## The Equipment
 
 This are some of the main machines in the space. Reagents and other small instruments (As micro-pipettes) are not listed below. You could contact the laboratory assistant for more information.
 
