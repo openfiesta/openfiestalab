@@ -31,11 +31,11 @@ To address this, the space has some rules that reflect the good practices that a
   - Protective gloves.
   - Closed shoes.
 - Pipetting by mouth is totally prohibited.
-- If the experiments have high chances of creating aerosols, perform it inside the fume chamber.
-- Always remove the gloves for activities not related with the experiment or who use public infrastructures (Opening doors, answering the phone, using a keyboard...).
-- Label items with notes an initials.
+- If the experiments have high chances of creating aerosols, perform them inside the fume chamber.
+- Always remove gloves for activities not related with the experiment or to use common spaces (Opening doors, answering the phone, using a keyboard...).
+- Label items with notes which includes date and initials.
 - Except for special experiments, cultures larger than 0.5L are prohibited.
-- Follow the disposal guidelines. For more information ask the laboratory assistant.
+- Follow the disposal guidelines. For more information about the disposal guidelines ask the laboratory assistant.
 
 
 
