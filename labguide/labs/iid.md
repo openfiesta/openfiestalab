@@ -7,8 +7,6 @@ The lab helps students in cultivating one’s ability on interdisciplinary coope
 
 ## The Code of Conduct
 
-We expect our students to self-behave. A few of the conducts to remind in case if forgotten:
-
 -	Do not occupy a seat or leave your personal belongings for a longer time.
 -	Do not use a machine alone if you are not trained before or don’t have the know-how.
 -	Return the tools to original place after using them. 
@@ -25,13 +23,12 @@ We expect our students to self-behave. A few of the conducts to remind in case i
 <br> <br>
 ## Equipment
 
-Here are some of the components that we tickle in the Design + Space Lab.  
-
 ### Arduino
 
-<img align="left" width="300" src="/image/Arduino.png" style="margin:20px 10px 20px 10px">
+<img width="300" src="/image/arduino.jpg" style="margin:20px 10px 20px 10px">
 
 Arduino is an open-source prototyping platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. It is like the brain of a project.
+[https://www.arduino.cc/](https://www.arduino.cc/)
 
 ### Raspberry Pi
 
@@ -46,7 +43,7 @@ Raspberry Pi is a credit-card size computer that preinstalls Linux, despite the 
 
 ReSpeaker is an open modular voice interface to hack things around you. Let you interact with your home appliances, your plant, your office, your internet-equipped devices or any other things in your daily life, all by your voice. The ReSpeaker project provides hardware components and software libraries to build voice enabled device.
 
-### Sensors 
+<!-- ### Sensors 
 
 A sensor is a device that changes a physical parameter to an electrical output. 
 
@@ -56,15 +53,17 @@ i.	Temperature Sensor
 ii.	Ultrasonic Ranger 
 iii.	Digital Light Sensor
 iv.	Fingerprint Sensor 
-v.	Sound Sensor, and others 
+v.	Sound Sensor, and others  -->
 
 ### 3D Printer
+
+<img width="350" src="/image/3dprinter.jpg" style="margin:20px 10px 20px 10px">  
 
 We also have a 3D printer that builds a three-dimensional object from a computer-aided design model, by successively adding material layer by layer.
 
 ### 3D Scanner
 
-<img width="350" src="/image/3D-Scanner.png" style="margin:20px 10px 20px 10px">  
+<img width="200" src="/image/3dcanner.jpg" style="margin:20px 10px 20px 10px">  
 
 3D scanning is the process of analyzing a real-world object or environment to collect data on its shape and possibly its appearance (e.g. color). The collected data can then be used to construct digital 3D models
 
