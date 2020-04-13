@@ -16,3 +16,4 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
 comment: false
 ---
 
+Supported by ** [Open FIESTA](http://www.fiesta.tsinghua.edu.cn/) ** and ** Teaching Center for Experimentation and Practice ** of [Tsinghua University Shenzhen International Graduate School](https://www-en.sz.tsinghua.edu.cn/)
