@@ -8,7 +8,7 @@ For getting involved with this space you could contact directly with the dedicat
 
 
 
-## The code of conduct 
+## Rules of the space
 
 For responsible use of biotechnology, we need to maintain a proper level of organization, cleanliness and safety measures.
 
