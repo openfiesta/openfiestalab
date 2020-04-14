@@ -1,5 +1,3 @@
-<TOC />
-
 ## Introduction
 
 The Bio-X Lab is an interdisciplinary biology lab which aiming to provide with a space that allows the students to fast prototype around biology. 
