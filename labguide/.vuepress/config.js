@@ -32,7 +32,17 @@ module.exports = {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
-                    { text: 'Guide', link: '/labs/' },
+                    {
+                        text: 'Space & Lab', 
+                        items: [
+                            { text: 'Lab Guidance', link: '/labs/'},
+                            { text: 'Idea Cafe', link: '/labs/idea/' },
+                            { text: 'BIO-X Lab', link: '/labs/bio/' },
+                            { text: 'Design + Space', link: '/labs/iid/' },
+                            { text: 'Studio', link: '/labs/stu/' },
+                            { text: 'Machine Room', link: '/labs/machine/' }
+                        ]
+                    },
                     {
                         text: 'Join us',
                         items: [
@@ -60,6 +70,7 @@ module.exports = {
                         title: 'Labs',
                         path: '/labs/',
                         children: [
+                            ['/labs/idea', 'Idea Cafe(J212)'],
                             ['/labs/bio', 'BIO-X Lab(J213)'],
                             ['/labs/iid', 'Design + Space(J211)'],
                             ['/labs/stu', 'Studio(J208)'],
@@ -75,7 +86,16 @@ module.exports = {
             '/zh/': {
                 nav: [
                     { text: '主页', link: '/zh/' },
-                    { text: '指南', link: '/zh/labs/' },
+                    {
+                        text: '空间 & 实验室',
+                        items: [
+                            { text: '空间指南', link: '/zh/labs/' },
+                            { text: '创意交互空间', link: '/zh/labs/idea/' },
+                            { text: '生命健康交叉实验室', link: '/zh/labs/bio/' },
+                            { text: '创新设计实验室', link: '/zh/labs/stu/' },
+                            { text: '机械加工间', link: '/zh/labs/machine/' }
+                        ]
+                    },
                     {
                         text: '加入我们',
                         items: [
@@ -103,6 +123,7 @@ module.exports = {
                         title: '实验室',
                         path: '/zh/labs/',
                         children: [
+                            ['/zh/labs/idea', '创新交互空间 Idea Cafe（J212)']
                             ['/zh/labs/bio', '生命健康交叉实验室 BIO-X Lab（J213）'],
                             ['/zh/labs/iid', '创新设计实验室 Design + Space（J211）'],
                             ['/zh/labs/stu', '摄影室 Studio(J208)'],

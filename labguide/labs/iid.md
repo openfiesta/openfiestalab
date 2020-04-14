@@ -24,6 +24,28 @@ The lab helps students in cultivating one’s ability on interdisciplinary coope
 <br> <br>
 ## Equipment
 
+#### Design / Maker Equipment
+
+:::: tabs type:border-card
+
+::: tab Digital Fabrication
+
+:::
+
+::: tab Electronics Tools
+
+:::
+
+::: tab Open Hardware
+
+:::
+
+::: tab Hand Tools
+
+:::
+
+:::: 
+
 ### Arduino
 
 <img width="300" src="/image/machine/arduino.jpg" style="margin:20px 10px 20px 10px">
