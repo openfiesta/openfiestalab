@@ -123,7 +123,7 @@ module.exports = {
                         title: '实验室',
                         path: '/zh/labs/',
                         children: [
-                            ['/zh/labs/idea', '创新交互空间 Idea Cafe（J212)']
+                            ['/zh/labs/idea', '创新交互空间 Idea Cafe（J212)'],
                             ['/zh/labs/bio', '生命健康交叉实验室 BIO-X Lab（J213）'],
                             ['/zh/labs/iid', '创新设计实验室 Design + Space（J211）'],
                             ['/zh/labs/stu', '摄影室 Studio(J208)'],

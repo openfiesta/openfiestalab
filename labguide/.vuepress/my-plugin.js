@@ -6,20 +6,20 @@ module.exports = {
         ['vuepress-plugin-nprogress'],
         // ['element-ui'],
         ['vuepress-plugin-element-tabs'],
-        [
-            'vuepress-plugin-comment',
-            {
-                choosen: 'gitalk',
-                options: {
-                    clientID: 'aea3d94ca7b13dad299c',
-                    clientSecret: '48a6003d2080eb8de0d182180df0cf9730bd7bdb',
-                    repo: 'fiestacomment',
-                    owner: 'watterfall',
-                    admin: ['watterfall'],
-                    distractionFreeMode: false
-                }
-            }
-        ],
+        // [
+        //     'vuepress-plugin-comment',
+        //     {
+        //         choosen: 'gitalk',
+        //         options: {
+        //             clientID: 'aea3d94ca7b13dad299c',
+        //             clientSecret: '48a6003d2080eb8de0d182180df0cf9730bd7bdb',
+        //             repo: 'fiestacomment',
+        //             owner: 'watterfall',
+        //             admin: ['watterfall'],
+        //             distractionFreeMode: false
+        //         }
+        //     }
+        // ],
         [
             'redirect',
             {

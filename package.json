@@ -22,7 +22,6 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "uninstall": "0.0.0",
-    "vuepress": "^1.4.0",
-    "vuepress-plugin-comment": "^0.7.3"
+    "vuepress": "^1.4.0"
   }
 }
