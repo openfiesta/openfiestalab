@@ -6,8 +6,8 @@
   },
   "devDependencies": {
     "@vuepress/cli": "^1.0.0-alpha.27",
-    "@vuepress/plugin-active-header-links": "^1.4.0",
-    "@vuepress/plugin-back-to-top": "^1.4.0",
+    "@vuepress/plugin-active-header-links": "^1.4.1",
+    "@vuepress/plugin-back-to-top": "^1.4.1",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-element-tabs": "^0.2.8",
     "vuepress-plugin-element-ui": "^1.0.2",
@@ -20,8 +20,9 @@
     "vuepress-plugin-zooming": "^1.1.7"
   },
   "dependencies": {
-    "core-js": "^3.6.4",
+    "core-js": "^3.6.5",
     "uninstall": "0.0.0",
-    "vuepress": "^1.4.0"
+    "vuepress": "^1.4.1",
+    "vuepress-theme-yur": "^2.2.3"
   }
 }

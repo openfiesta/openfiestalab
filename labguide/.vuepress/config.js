@@ -33,9 +33,24 @@ module.exports = {
                 nav:[
                     { text: 'Home', link: '/' },
                     {
+                        text: 'Explore',
+                        items: [{
+                                text: 'Guidance',
+                                link: '/labs/'
+                            },
+                            {
+                                text: 'Project',
+                                link: '/projects/'
+                            },
+                            {
+                                text: 'Code of Conduct',
+                                link: '/coc/'
+                            }
+                        ]
+                    },
+                    {
                         text: 'Space & Lab', 
                         items: [
-                            { text: 'Lab Guidance', link: '/labs/'},
                             { text: 'Idea Cafe', link: '/labs/idea/' },
                             { text: 'BIO-X Lab', link: '/labs/bio/' },
                             { text: 'Design + Space', link: '/labs/iid/' },
@@ -52,7 +67,6 @@ module.exports = {
                             { text: 'Master Program', link: 'http://www.fiesta.tsinghua.edu.cn/admissions' }
                         ]
                     },
-                    { text: 'Project', link: '/projects/'},
                     {
                         text: 'About',
                         items: [
@@ -66,6 +80,7 @@ module.exports = {
                 label: 'English',
 //                lastUpdated: 'Last Updated',
                 sidebar: [
+                    ['/coc', 'Code of Conduct'],
                     {
                         title: 'Labs',
                         path: '/labs/',
@@ -87,9 +102,24 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh/' },
                     {
+                        text: '探索',
+                        items: [{
+                                text: '空间指南',
+                                link: '/zh/labs/'
+                            },
+                            {
+                                text: '项目',
+                                link: '/zh/projects/'
+                            },
+                            {
+                                text: '行为准则',
+                                link: '/zh/coc/'
+                            }
+                        ]
+                    }, 
+                    {
                         text: '空间 & 实验室',
                         items: [
-                            { text: '空间指南', link: '/zh/labs/' },
                             { text: '创意交互空间', link: '/zh/labs/idea/' },
                             { text: '生命健康交叉实验室', link: '/zh/labs/bio/' },
                             { text: '创新设计实验室', link: '/zh/labs/stu/' },
@@ -105,7 +135,6 @@ module.exports = {
                             { text: '硕士项目', link: 'http://www.fiesta.tsinghua.edu.cn/cn/admissions' }
                         ]
                     },
-                    { text: '项目', link: '/zh/projects/'},
                     {
                         text: '关于',
                         items: [
@@ -119,6 +148,7 @@ module.exports = {
 //                lastUpdated: '最近更新时间',
                 displayAllHeaders: true,
                 sidebar: [
+                    ['/zh/coc', '行为准则'],
                     {
                         title: '实验室',
                         path: '/zh/labs/',
