@@ -1,3 +1,6 @@
+---
+title: Studio
+---
 ## Introduction
 
 ## Equipment

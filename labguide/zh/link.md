@@ -1,3 +1,3 @@
 ---
-comment: false 
+title: Friendly link
 ---

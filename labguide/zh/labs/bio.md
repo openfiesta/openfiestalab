@@ -1,4 +1,6 @@
-
+---
+title: Bio-X Lab
+---
 ## 仪器
 
 ### PCR仪

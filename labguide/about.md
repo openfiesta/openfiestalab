@@ -1,5 +1,5 @@
 ---
 home: true
-heroText: About Open FIESTA Lab
-comment: false 
+comment: false
+title: about
 ---

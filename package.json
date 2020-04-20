@@ -23,6 +23,7 @@
     "core-js": "^3.6.5",
     "uninstall": "0.0.0",
     "vuepress": "^1.4.1",
-    "vuepress-theme-yur": "^2.2.3"
+    "vuepress-theme-antdocs": "^1.0.1",
+    "vuetify": "^2.2.22"
   }
 }

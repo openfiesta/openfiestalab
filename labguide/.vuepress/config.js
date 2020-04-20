@@ -2,7 +2,7 @@ module.exports = {
     title: 'Open FIESTA Lab',
     head: [
         ['link', { rel: 'icon', href: '/image/logoof.png' }],
-        ['link', { rel: 'stylesheet', href: `https://fonts.cat.net/css?family=Roboto:100,300,400,500,700,900|Material+Icons` }],
+        // ['link', { rel: 'stylesheet', href: `https://fonts.cat.net/css?family=Roboto:100,300,400,500,700,900|Material+Icons` }],
         ['link', { rel: 'stylesheet', href: `https://use.fontawesome.com/releases/v5.1.0/css/all.css` }]
     ],
     base: '/',
@@ -33,6 +33,30 @@ module.exports = {
                 nav:[
                     { text: 'Home', link: '/' },
                     {
+                        text: 'Space & Lab',
+                        items: [{
+                                text: 'Idea Cafe',
+                                link: '/labs/idea/'
+                            },
+                            {
+                                text: 'BIO-X Lab',
+                                link: '/labs/bio/'
+                            },
+                            {
+                                text: 'Design + Space',
+                                link: '/labs/iid/'
+                            },
+                            {
+                                text: 'Studio',
+                                link: '/labs/stu/'
+                            },
+                            {
+                                text: 'Machine Room',
+                                link: '/labs/machine/'
+                            }
+                        ]
+                    },
+                    {
                         text: 'Explore',
                         items: [{
                                 text: 'Guidance',
@@ -46,16 +70,6 @@ module.exports = {
                                 text: 'Code of Conduct',
                                 link: '/coc/'
                             }
-                        ]
-                    },
-                    {
-                        text: 'Space & Lab', 
-                        items: [
-                            { text: 'Idea Cafe', link: '/labs/idea/' },
-                            { text: 'BIO-X Lab', link: '/labs/bio/' },
-                            { text: 'Design + Space', link: '/labs/iid/' },
-                            { text: 'Studio', link: '/labs/stu/' },
-                            { text: 'Machine Room', link: '/labs/machine/' }
                         ]
                     },
                     {
@@ -102,6 +116,26 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh/' },
                     {
+                        text: '空间 & 实验室',
+                        items: [{
+                                text: '创意交互空间',
+                                link: '/zh/labs/idea/'
+                            },
+                            {
+                                text: '生命健康交叉实验室',
+                                link: '/zh/labs/bio/'
+                            },
+                            {
+                                text: '创新设计实验室',
+                                link: '/zh/labs/stu/'
+                            },
+                            {
+                                text: '机械加工间',
+                                link: '/zh/labs/machine/'
+                            }
+                        ]
+                    },
+                    {
                         text: '探索',
                         items: [{
                                 text: '空间指南',
@@ -117,15 +151,6 @@ module.exports = {
                             }
                         ]
                     }, 
-                    {
-                        text: '空间 & 实验室',
-                        items: [
-                            { text: '创意交互空间', link: '/zh/labs/idea/' },
-                            { text: '生命健康交叉实验室', link: '/zh/labs/bio/' },
-                            { text: '创新设计实验室', link: '/zh/labs/stu/' },
-                            { text: '机械加工间', link: '/zh/labs/machine/' }
-                        ]
-                    },
                     {
                         text: '加入我们',
                         items: [

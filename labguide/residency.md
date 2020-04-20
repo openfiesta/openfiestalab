@@ -4,7 +4,7 @@ heroText: RESIDENCY PROGRAM
 tagline: In Open FIESTA, Tsinghua University Shenzhen
 actionText: Apply 2020
 actionLink: /applyresidency/
-
+title: Residency
 ---
 
 :::: tabs type:card
