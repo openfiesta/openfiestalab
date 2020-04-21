@@ -1,8 +1,7 @@
 module.exports = {
-    title: '',
+    title: 'Open FIESTA Lab',
     head: [
         ['link', { rel: 'icon', href: '/image/logoof.png' }],
-        // ['link', { rel: 'stylesheet', href: `https://fonts.cat.net/css?family=Roboto:100,300,400,500,700,900|Material+Icons` }],
         ['link', { rel: 'stylesheet', href: `https://use.fontawesome.com/releases/v5.1.0/css/all.css` }]
     ],
     base: '/',
