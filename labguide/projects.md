@@ -27,3 +27,5 @@ Among the challenges that must be faced, the fight against deadly diseases seems
 
 The Low Resorces Biosensing project aims to explore and develop new affordable and easy-to-use platforms. The goal of this systems is to help performing a simple and quick test in samples (water, food...) suspected of being infected by pathogens (Bacterias, viruses...) or toxins.
 
+
+<Vssue :title="$title" />

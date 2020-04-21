@@ -10,3 +10,5 @@ title: Design + Space
 ### 示波器
 
 ### 机械臂
+
+<Vssue :title="$title" />

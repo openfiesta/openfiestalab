@@ -18,3 +18,5 @@
   
 <img width="166" src="/image/machine/lcdprinter.jpg">  
 
+
+<Vssue :title="$title" />

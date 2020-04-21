@@ -95,3 +95,5 @@ title: Bio-X Lab
 <img width="221" src="/image/machine/uvanalyzer.jpg">  
 
 ### 生物显微镜
+
+<Vssue :title="$title" />

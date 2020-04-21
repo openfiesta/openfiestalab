@@ -20,6 +20,9 @@
     "vuepress-plugin-zooming": "^1.1.7"
   },
   "dependencies": {
+    "@kawarimidoll/vuepress-plugin-tailwind": "^0.1.4",
+    "@vssue/api-github-v3": "^1.4.3",
+    "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "core-js": "^3.6.5",
     "uninstall": "0.0.0",
     "vuepress": "^1.4.1",
