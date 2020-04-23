@@ -6,19 +6,24 @@ tagline: Open FIESTA, Tsinghua Shenzhen
 actionText: Lab Guidance →
 actionLink: /labs/
 features:
-# - title: Bio-X Lab (J213)
-#   details: Interdisciplinary Biology Lab for Biohacking, DIY Bio, Synbio, Biodesign...
-# - title: Design+ Space (J211)
-#   details: Design, Build, Prototype, A place where you explore new possibilities...
-# - title: Idea Cafe (J212)
-#   details: When you have an idea, while you don't know where to share and who to talk...
+- title: Teaching Lab / Learning Space for students
+  details: We create an environment where students with different culture and backgroud learn, collaborate and innovative with each other. 
+- title: Community Lab of Open Science
+  details: Unlike a traditional lab, the research goals and projects are set by the makers / students themselves in Open FIESTA's Lab. 
+- title: Shenzhen SDG Sulotion Space
+  details: By connecting the technology resources of Shenzhen and innovators all over the world, we collectively solve SDGs problems.
 footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
 ---
 <template>
+  <v-toolbar>
+  <v-toolbar-title>
+  </v-toolbar-title>
+  </v-toolbar>
+<br>
 <v-row no-gutters>
 <v-card
     class="sm"
-    max-width="297"
+    max-width="298"
   >
     <a href="/labs/bio/">
     <v-img
@@ -30,12 +35,12 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
     Bio-X Lab
     </v-card-title>
     <v-card-subtitle>
-      Interdisciplinary Biology Lab for Biohacking, DIY Bio, Synbio, Biodesign...
+      Bio for the future. Interdisciplinary Biology Lab for Biohacking, DIY Bio, Synbio, Biodesign...
     </v-card-subtitle>
 </v-card>
 <v-card
     class="sm"
-    max-width="297"
+    max-width="298"
   >
     <a href ="/labs/idea/">
     <v-img
@@ -47,12 +52,12 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
       Idea Cafe
     </v-card-title>
     <v-card-subtitle>
-      When you have an idea, while you don't know where to share and who to talk...
+      Enlighting, Empower, Engaging. A place for idea exchange, brainstorming and social learning...
     </v-card-subtitle>
 </v-card>
 <v-card
     class="sm"
-    max-width="297"
+    max-width="298"
   >
     <a href="/labs/iid/" >
     <v-img
@@ -64,7 +69,7 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
       Design+ Space
     </v-card-title>
     <v-card-subtitle>
-      Design, Build, Prototype, A place where you explore new possibilities...
+      Design, Build, Prototype. A Maker Space / Fab Lab where you explore new possibilities...
     </v-card-subtitle>
 </v-card>
 </v-row>
@@ -74,4 +79,14 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
 
 Supported by **[Open FIESTA](http://www.fiesta.tsinghua.edu.cn/)** and **Teaching Center for Experimentation and Practice** of [Tsinghua University Shenzhen International Graduate School](https://www-en.sz.tsinghua.edu.cn/)
 
-Thanks to the contribution of Xinrui, Weizheng, Chuanzan, Nael, Fran, Alfredo etc.
+<br>
+
+Special thanks to the contribution of student lab assistant Xinrui, Weizheng, Chuanzan, Nael, Fran, Alfredo etc.  
+
+<br>
+
+Great inspired by Tsinghua Open Wisdom Lab.  
+
+<br>
+
+Thanks the advise and mentoring of to Luping, Sifan, Huangwei, Yaou, Chunyan, Xiyu, Mingchun etc.

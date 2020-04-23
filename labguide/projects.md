@@ -4,6 +4,7 @@ title: Project
 
 ## FuShi :eyeglasses:
 
+<br>
 
 ## HomeScope :microscope:  
   
@@ -17,6 +18,7 @@ title: Project
 This open source project is maintained by [biotexturas](http://biotexturas.org) :hibiscus: collective and collaborators.
 
   
+<br>
 
 ## Low Resources Biosensing :mag:  
   
@@ -26,6 +28,8 @@ This open source project is maintained by [biotexturas](http://biotexturas.org) 
 Among the challenges that must be faced, the fight against deadly diseases seems a crucial point to address. Nowadays we have good levels of disease detection, but, although these technologies are solid and have huge potential, they still remain far from the scope of some areas of our planet. Unfortunately, these areas are often the most affected by epidemics and infectious diseases, preventable with an early detection system.  
 
 The Low Resorces Biosensing project aims to explore and develop new affordable and easy-to-use platforms. The goal of this systems is to help performing a simple and quick test in samples (water, food...) suspected of being infected by pathogens (Bacterias, viruses...) or toxins.
+
+<br>
 
 
 <Vssue :title="$title" />
