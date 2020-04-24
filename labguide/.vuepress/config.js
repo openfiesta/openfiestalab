@@ -68,6 +68,10 @@ module.exports = {
                             {
                                 text: 'Code of Conduct',
                                 link: '/coc/'
+                            },
+                            {
+                                text: 'GitHub Page',
+                                link: 'https://github.com/openfiesta'
                             }
                         ]
                     },
@@ -83,10 +87,9 @@ module.exports = {
                     {
                         text: 'About',
                         items: [
-                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/' }, 
-                            // { text: 'Tsinghua SIGS', link: 'https://www-en.sz.tsinghua.edu.cn/'},
                             { text: 'About Open FIESTA', link: '/about/' },
-                            { text: 'About the website', link: '/website/' },
+                            { text: 'About Open FIESTA Lab', link: '/lab/'},
+                            { text: 'About the website', link: '/website/' }
                         ]
                     }
                 ],
@@ -148,6 +151,10 @@ module.exports = {
                             {
                                 text: '行为准则',
                                 link: '/zh/coc/'
+                            },
+                            {
+                                text: 'Github',
+                                link: 'https://github.com/openfiesta'
                             }
                         ]
                     }, 
@@ -163,9 +170,8 @@ module.exports = {
                     {
                         text: '关于',
                         items: [
-                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/cn/' },
-                            // { text: '清华大学深圳国际研究生院', link: 'https://www.sigs.tsinghua.edu.cn/'},
                             { text: '关于Open FIESTA', link: '/zh/about/' },
+                            { text: '关于Open FIESTA实验室', link: '/zh/lab/'},
                             { text: '关于网站', link: '/zh/website/'}
                         ]
                     },

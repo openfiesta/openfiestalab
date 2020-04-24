@@ -7,18 +7,20 @@ actionText: Lab Guidance →
 actionLink: /labs/
 features:
 - title: Teaching Lab / Learning Space for students
-  details: We create an environment where students with different culture and backgroud learn, collaborate and innovative with each other. 
+  details: We create an environment where students with different culture and backgroud could learn, collaborate and innovative with each other. 
 - title: Community Lab of Open Science
   details: Unlike a traditional lab, the research goals and projects are set by the makers / students themselves in Open FIESTA's Lab. 
 - title: Shenzhen SDG Sulotion Space
   details: By connecting the technology resources of Shenzhen and innovators all over the world, we collectively solve SDGs problems.
-footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
+footer:  Copyright © 2019-2020 Open FIESTA
 ---
-<template>
-  <v-toolbar>
-  <v-toolbar-title>
-  </v-toolbar-title>
-  </v-toolbar>
+
+-------
+<br>
+
+### <center> Open Faculty for Innovation, Education, Science, Technology and Art </center>
+
+<div>
 <br>
 <v-row no-gutters>
 <v-card
@@ -73,20 +75,13 @@ footer:  MIT Licensed | Copyright © 2019-2020 Open FIESTA
     </v-card-subtitle>
 </v-card>
 </v-row>
-</template>
+</div>
 
 <br/>
+
 
 Supported by **[Open FIESTA](http://www.fiesta.tsinghua.edu.cn/)** and **Teaching Center for Experimentation and Practice** of [Tsinghua University Shenzhen International Graduate School](https://www-en.sz.tsinghua.edu.cn/)
 
 <br>
 
-Special thanks to the contribution of student lab assistant Xinrui, Weizheng, Chuanzan, Nael, Fran, Alfredo etc.  
-
 <br>
-
-Great inspired by Tsinghua Open Wisdom Lab.  
-
-<br>
-
-Thanks the advise and mentoring of to Luping, Sifan, Huangwei, Yaou, Chunyan, Xiyu, Mingchun etc.

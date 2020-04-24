@@ -4,6 +4,8 @@ title: Project
 
 ## FuShi :eyeglasses:
 
+Open source affordable AR Glasses. [Github Page](https://github.com/openfiesta/project-fushi)
+
 <br>
 
 ## HomeScope :microscope:  
