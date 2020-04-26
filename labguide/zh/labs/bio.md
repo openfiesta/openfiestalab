@@ -1,4 +1,6 @@
-
+---
+title: Bio-X Lab
+---
 ## 仪器
 
 ### PCR仪
@@ -93,3 +95,5 @@
 <img width="221" src="/image/machine/uvanalyzer.jpg">  
 
 ### 生物显微镜
+
+<Vssue :title="$title" />

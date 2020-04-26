@@ -1,5 +1,5 @@
-
-
+---
+---
 ## 仪器
 ### 激光切割机
 
@@ -12,3 +12,6 @@
 ### 光固化3d打印机
 
 <img width="166" src="/image/machine/lcdprinter.jpg">  
+
+
+<Vssue :title="$title" />

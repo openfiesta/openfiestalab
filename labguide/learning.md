@@ -1,4 +1,6 @@
-
+---
+title: Learning
+---
 ### 3D printing  
 **Recomend 3d Model Design Software**
 * [OpenSCAD](https://www.openscad.org/)   Free | Intermediate level | Programmers
@@ -12,3 +14,7 @@
 
 **3d Model resourses website**
 * [Thingiverse](https://www.thingiverse.com/)
+
+
+
+<Vssue :title="$title" />

@@ -1,4 +1,7 @@
-<TOC />
+---
+title: Design + Space
+---
+
 
 ## Introduction
 
@@ -17,12 +20,34 @@ The lab helps students in cultivating one’s ability on interdisciplinary coope
 
 ## The Laboratory Assistant
 
-<img align="left" width="217" src="/image/Nael.jpg" style="margin:20px 10px 20px 10px">
+<img align="left" width="217" src="/image/Nael.jpg">
 
 <a href="https://www.linkedin.com/in/naelstudentattsinghua/">Nael Hailemariam</a>,  an Ethiopian and a masters' student of Data Science and Information Technology in Open FIESTA Program of Tsinghua University.
 <br> He has a tremendous interest in the cross-pollination of the tech and social ecosystem of China and East Africa; specially, Ethiopia. <br> He has participated in numerous of hackathons in 4 continents. He is now working an internship at Tencent. 
 <br> <br>
 ## Equipment
+
+#### Design / Maker Equipment
+
+:::: tabs type:border-card
+
+::: tab Digital Fabrication
+
+:::
+
+::: tab Electronics Tools
+
+:::
+
+::: tab Open Hardware
+
+:::
+
+::: tab Hand Tools
+
+:::
+
+:::: 
 
 ### Arduino
 
@@ -79,3 +104,5 @@ It is commonly used to display and analyze the waveform of electronic signals. I
 
 A robotic arm is a type of mechanical arm, usually programmable, with similar functions to a human arm; the arm may be the sum total of the mechanism or may be part of a more complex robot. 
 
+
+<Vssue :title="$title" />

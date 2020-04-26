@@ -2,7 +2,6 @@ module.exports = {
     title: 'Open FIESTA Lab',
     head: [
         ['link', { rel: 'icon', href: '/image/logoof.png' }],
-        ['link', { rel: 'stylesheet', href: `https://fonts.cat.net/css?family=Roboto:100,300,400,500,700,900|Material+Icons` }],
         ['link', { rel: 'stylesheet', href: `https://use.fontawesome.com/releases/v5.1.0/css/all.css` }]
     ],
     base: '/',
@@ -32,7 +31,50 @@ module.exports = {
             '/': {
                 nav:[
                     { text: 'Home', link: '/' },
-                    { text: 'Guide', link: '/labs/' },
+                    {
+                        text: 'Space & Lab',
+                        items: [{
+                                text: 'Idea Cafe',
+                                link: '/labs/idea/'
+                            },
+                            {
+                                text: 'BIO-X Lab',
+                                link: '/labs/bio/'
+                            },
+                            {
+                                text: 'Design + Space',
+                                link: '/labs/iid/'
+                            },
+                            {
+                                text: 'Studio',
+                                link: '/labs/stu/'
+                            },
+                            {
+                                text: 'Machine Room',
+                                link: '/labs/machine/'
+                            }
+                        ]
+                    },
+                    {
+                        text: 'Explore',
+                        items: [{
+                                text: 'Guidance',
+                                link: '/labs/'
+                            },
+                            {
+                                text: 'Project',
+                                link: '/projects/'
+                            },
+                            {
+                                text: 'Code of Conduct',
+                                link: '/coc/'
+                            },
+                            {
+                                text: 'GitHub Page',
+                                link: 'https://github.com/openfiesta'
+                            }
+                        ]
+                    },
                     {
                         text: 'Join us',
                         items: [
@@ -42,13 +84,12 @@ module.exports = {
                             { text: 'Master Program', link: 'http://www.fiesta.tsinghua.edu.cn/admissions' }
                         ]
                     },
-                    { text: 'Project', link: '/projects/'},
                     {
                         text: 'About',
                         items: [
-                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/' }, 
-                            // { text: 'Tsinghua SIGS', link: 'https://www-en.sz.tsinghua.edu.cn/'},
-                            { text: 'About the Lab', link: '/about/' }
+                            { text: 'About Open FIESTA', link: '/about/' },
+                            { text: 'About Open FIESTA Lab', link: '/lab/'},
+                            { text: 'About the website', link: '/website/' }
                         ]
                     }
                 ],
@@ -56,10 +97,12 @@ module.exports = {
                 label: 'English',
 //                lastUpdated: 'Last Updated',
                 sidebar: [
+                    ['/coc', 'Code of Conduct'],
                     {
                         title: 'Labs',
                         path: '/labs/',
                         children: [
+                            ['/labs/idea', 'Idea Cafe(J212)'],
                             ['/labs/bio', 'BIO-X Lab(J213)'],
                             ['/labs/iid', 'Design + Space(J211)'],
                             ['/labs/stu', 'Studio(J208)'],
@@ -75,7 +118,46 @@ module.exports = {
             '/zh/': {
                 nav: [
                     { text: '主页', link: '/zh/' },
-                    { text: '指南', link: '/zh/labs/' },
+                    {
+                        text: '空间 & 实验室',
+                        items: [{
+                                text: '创意交互空间',
+                                link: '/zh/labs/idea/'
+                            },
+                            {
+                                text: '生命健康交叉实验室',
+                                link: '/zh/labs/bio/'
+                            },
+                            {
+                                text: '创新设计实验室',
+                                link: '/zh/labs/stu/'
+                            },
+                            {
+                                text: '机械加工间',
+                                link: '/zh/labs/machine/'
+                            }
+                        ]
+                    },
+                    {
+                        text: '探索',
+                        items: [{
+                                text: '空间指南',
+                                link: '/zh/labs/'
+                            },
+                            {
+                                text: '项目',
+                                link: '/zh/projects/'
+                            },
+                            {
+                                text: '行为准则',
+                                link: '/zh/coc/'
+                            },
+                            {
+                                text: 'Github',
+                                link: 'https://github.com/openfiesta'
+                            }
+                        ]
+                    }, 
                     {
                         text: '加入我们',
                         items: [
@@ -85,13 +167,12 @@ module.exports = {
                             { text: '硕士项目', link: 'http://www.fiesta.tsinghua.edu.cn/cn/admissions' }
                         ]
                     },
-                    { text: '项目', link: '/zh/projects/'},
                     {
                         text: '关于',
                         items: [
-                            // { text: 'Open FIESTA', link: 'http://www.fiesta.tsinghua.edu.cn/cn/' },
-                            // { text: '清华大学深圳国际研究生院', link: 'https://www.sigs.tsinghua.edu.cn/'},
-                            { text: '关于实验室', link: '/zh/about/' }
+                            { text: '关于Open FIESTA', link: '/zh/about/' },
+                            { text: '关于Open FIESTA实验室', link: '/zh/lab/'},
+                            { text: '关于网站', link: '/zh/website/'}
                         ]
                     },
                 ],
@@ -99,10 +180,12 @@ module.exports = {
 //                lastUpdated: '最近更新时间',
                 displayAllHeaders: true,
                 sidebar: [
+                    ['/zh/coc', '行为准则'],
                     {
                         title: '实验室',
                         path: '/zh/labs/',
                         children: [
+                            ['/zh/labs/idea', '创新交互空间 Idea Cafe（J212)'],
                             ['/zh/labs/bio', '生命健康交叉实验室 BIO-X Lab（J213）'],
                             ['/zh/labs/iid', '创新设计实验室 Design + Space（J211）'],
                             ['/zh/labs/stu', '摄影室 Studio(J208)'],
