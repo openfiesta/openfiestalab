@@ -23,4 +23,8 @@ This open source project is maintained by [biotexturas](http://biotexturas.org) 
 <p style="margin:30px 10px 20px 20px ">
 The Low Resorces Biosensing project aims to explore and develop new affordable and easy-to-use platforms. The goal of this systems is to help performing a simple and quick test in samples (water, food...) suspected of being infected by pathogens (Bacterias, viruses...) or toxins.
 </p>
+<p style="margin:30px 10px 20px 20px ">
+    You could dive deeper into the project through <a href="https://github.com/openfiesta/Low-Resources-Biosensing.git">its GitHub</a>.
+</p>
+
   
