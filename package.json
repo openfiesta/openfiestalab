@@ -8,9 +8,11 @@
     "@vuepress/cli": "^1.0.0-alpha.27",
     "@vuepress/plugin-active-header-links": "^1.4.1",
     "@vuepress/plugin-back-to-top": "^1.4.1",
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-element-tabs": "^0.2.8",
-    "vuepress-plugin-element-ui": "^1.0.2",
+    "vuepress-plugin-element-ui": "^1.1.0",
     "vuepress-plugin-gitalk-maker": "^0.1.0",
     "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-plugin-nprogress": "^1.1.6",
@@ -20,13 +22,13 @@
     "vuepress-plugin-zooming": "^1.1.7"
   },
   "dependencies": {
-    "@kawarimidoll/vuepress-plugin-tailwind": "^0.1.4",
+    "@kawarimidoll/vuepress-plugin-tailwind": "^0.1.5",
     "@vssue/api-github-v3": "^1.4.3",
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "core-js": "^3.6.5",
     "uninstall": "0.0.0",
     "vuepress": "^1.4.1",
     "vuepress-theme-antdocs": "^1.0.1",
-    "vuetify": "^2.2.22"
+    "vuetify": "^2.2.25"
   }
 }

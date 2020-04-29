@@ -3,6 +3,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/image/logoof.png' }],
         ['link', { rel: 'stylesheet', href: `https://use.fontawesome.com/releases/v5.1.0/css/all.css` }]
+        // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' }]
     ],
     base: '/',
     description: 'Lab Guidance of Open FIESTA',
@@ -17,6 +18,8 @@ module.exports = {
     },
     plugins: [
         require('./my-plugin.js')
+    ],
+    globalUIComponents: [
     ],
     themeConfig:{
         logo: '/image/logoof.png',
@@ -88,7 +91,7 @@ module.exports = {
                         text: 'About',
                         items: [
                             { text: 'About Open FIESTA', link: '/about/' },
-                            { text: 'About Open FIESTA Lab', link: '/lab/'},
+                            { text: 'timeline', link: '/timeline/'},
                             { text: 'About the website', link: '/website/' }
                         ]
                     }
@@ -111,6 +114,8 @@ module.exports = {
                     },
                     ['/learning', 'Learning'],
                     ['/projects', 'Project'],
+                    ['/events', 'Event'],
+                    ['/club', 'Club'],
                     ['/toolbox', 'Toolbox'],
                     ['/link', 'Friendly Link']
                 ]
@@ -171,7 +176,7 @@ module.exports = {
                         text: '关于',
                         items: [
                             { text: '关于Open FIESTA', link: '/zh/about/' },
-                            { text: '关于Open FIESTA实验室', link: '/zh/lab/'},
+                            { text: '时间线', link: '/zh/timeline/'},
                             { text: '关于网站', link: '/zh/website/'}
                         ]
                     },
@@ -195,6 +200,8 @@ module.exports = {
                     ['/zh/learning', '学习'],
                     ['/zh/projects', '项目'],
                     ['/zh/toolbox', '工具箱'],
+                    ['/zh/club', '学生社团'],
+                    ['/zh/events', '开放活动'],
                     ['/zh/link', '友情链接']
                 ]
             }
