@@ -4,12 +4,7 @@ module.exports = {
         ['@vuepress/back-to-top'],
         ['vuepress-plugin-table-of-contents'],
         ['vuepress-plugin-nprogress'],
-        // [
-        //     "@kawarimidoll/tailwind", 
-        //     { 
-        //         tailwindConfig: { important: true } 
-        //     }
-        // ],
+        // ['element-ui'],
         [
             '@vssue/vuepress-plugin-vssue',
             {

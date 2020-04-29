@@ -18,7 +18,7 @@ footer:  Copyright © 2019-2020 Open FIESTA
 -------
 <br>
 
-### <center> Open Faculty for Innovation, Education, Science, Technology and Art </center>
+### <center>  </center>
 
 <div>
 <br>
