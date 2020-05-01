@@ -29,6 +29,6 @@
     "uninstall": "0.0.0",
     "vuepress": "^1.4.1",
     "vuepress-theme-antdocs": "^1.0.1",
-    "vuetify": "^2.2.25"
+    "vuetify": "^2.2.26"
   }
 }

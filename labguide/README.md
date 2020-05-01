@@ -14,12 +14,8 @@ features:
   details: By connecting the technology resources of Shenzhen and innovators all over the world, we collectively solve SDGs problems.
 footer:  Copyright © 2019-2020 Open FIESTA
 ---
-
 -------
 <br>
-
-### <center>  </center>
-
 <div>
 <br>
 <v-row no-gutters>
@@ -83,5 +79,37 @@ footer:  Copyright © 2019-2020 Open FIESTA
 Supported by **[Open FIESTA](http://www.fiesta.tsinghua.edu.cn/)** and **Teaching Center for Experimentation and Practice** of [Tsinghua University Shenzhen International Graduate School](https://www-en.sz.tsinghua.edu.cn/)
 
 <br>
-
+<div>
+ <v-carousel cycle height="400" hide-delimiter-background show-arrows-on-hover>
+    <v-carousel-item>
+      <v-sheet color="white" height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/residency.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+    <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/goshimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+        <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/summercampimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+        </v-carousel-item>
+        <v-carousel-item>
+      <v-sheet height="100%">
+        <v-row class="fill-height" align="center" justify="center">
+          <v-img src="/image/joelimg.jpg"></v-img>
+        </v-row>
+      </v-sheet>
+    </v-carousel-item>
+ </v-carousel>
+ </div>
 <br>

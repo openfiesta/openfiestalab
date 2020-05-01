@@ -49,7 +49,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 4. A dedicated budget for materials that would be decided upon after having chosen the project and having assessed its needs.
 
-5. A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
+<!-- 5. A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
 
 6. Fully-covered accommodation during the complete period of the residence. You will have an individual room with a private bathroom at Tsinghua Shenzhen International Graduate School.
 
@@ -57,7 +57,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
    - 0 - 1000 km: The program will pay the tickets to a maximum of ¥700.
    - 1000 - 5000 km: The program will pay the tickets to a maximum of ¥2,100.
-   - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500.
+   - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500. -->
 
 
 
@@ -109,7 +109,7 @@ Come join us hacking Shenzhen!
 ::: tab Program requirements
 
 - The residents have to facilitate one workshop per month related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
-- Well-described and understandable documentation of the project and results on the OpenFIESTA Github. This should be composed of a proper description of all the research done by the residents during this period. The intellectual property of this work will belong to the people who have contributed to the development of the project (The resident, collaborators...), and will be registered under Creative Commons Attributions.
+- Well-described and understandable documentation of the project and results on the Open FIESTA Github. This should be composed of a proper description of all the research done by the residents during this period. The intellectual property of this work will belong to the people who have contributed to the development of the project (The resident, collaborators...), and will be registered under Creative Commons Attributions.
 - Open FIESTA will be required to appear as an official sponsor of the project in all of the hackers' work that will be related to our program.
 - A video explaining the project, its goals, and the results at the end of the residence.
 
