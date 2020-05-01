@@ -48,6 +48,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
    - Biolab: https://openfiesta.space/labs/bio/
 
 4. A dedicated budget for materials that would be decided upon after having chosen the project and having assessed its needs.
+5. And more...
 
 <!-- 5. A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
 
@@ -78,7 +79,7 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 
 
-<img align="left" src="/image/ShenzhenNeon.jpg">
+<img align="left" width="500px" src="/image/ShenzhenNeon.jpg">
 
 
 
