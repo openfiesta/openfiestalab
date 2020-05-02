@@ -10,8 +10,10 @@ tagline: Timeline
   <v-app id="inspire">
     <v-timeline>
       <v-timeline-item>2015 June - Open FIESTA launched</v-timeline-item>
+      <v-timeline-item> 2016 Jan - Open FIESTA Winter Camp | Co-design a Sustainable City</v-timeline-item>
       <v-timeline-item class="text-right"> 2016 March - Sage Bionetwork Shenzhen Assembly </v-timeline-item>
-      <v-timeline-item> 2017</v-timeline-item>
+      <v-timeline-item> 2017 Aug - iSDG Shenzhen Assembly </v-timeline-item>
+      <v-timeline-item> 2018 Oct - Gathering for Open Science Hardware (GOSH) Shenzhen</v-timeline-item>
     </v-timeline>
   </v-app>
 </div>

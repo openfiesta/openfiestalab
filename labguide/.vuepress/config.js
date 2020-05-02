@@ -91,8 +91,9 @@ module.exports = {
                         text: 'About',
                         items: [
                             { text: 'About Open FIESTA', link: '/about/' },
-                            { text: 'timeline', link: '/timeline/'},
-                            { text: 'About the website', link: '/website/' }
+                            { text: 'About the website', link: '/website/' },
+                            { text: 'Timeline', link: '/timeline/' },
+                            { text: 'Friendly Link', link: '/link/' }
                         ]
                     }
                 ],
@@ -176,8 +177,9 @@ module.exports = {
                         text: '关于',
                         items: [
                             { text: '关于Open FIESTA', link: '/zh/about/' },
-                            { text: '时间线', link: '/zh/timeline/'},
-                            { text: '关于网站', link: '/zh/website/'}
+                            { text: '关于网站', link: '/zh/website/' },
+                            { text: '时间线', link: '/zh/timeline/' },
+                            { text: '友情链接', link: '/zh/link/' }
                         ]
                     },
                 ],
