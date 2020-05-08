@@ -10,11 +10,13 @@ title: Residency
 :::: tabs type:card
 ::: tab Our Vision
 
- Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
+<br>
+
+<p style="margin-top:50px; margin-bottom:25px;"> Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.</p>
 
 
 
-<img src="/image/lab/biolab.jpg">
+<img src="/image/lab/biolab.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 
 
@@ -22,9 +24,13 @@ title: Residency
 
 As an interdisciplinary teaching lab & learning space, we provide an unique place where students experiment, try different ideas and learn in the process. Some of them do it as initial research for a startup, some of them just out of curiosity and a passion to create. Unlike a traditional research lab in universities or companies, in our lab the research goals are set by the makers themselves according to Open Science spirit.  If you have a project you couldn't get support for, from traditional labs, come and do it in Open FIESTA. 
 
+</br>
+
 **Roadmap - What is the residency program?**
 
 We have built the laboratory facilities of our Open FIESTA Community Lab, and now seek to create a community around it. To that end, we have established the residency program. Hackers in Residence wants to jumpstart the making of this community by inviting cohorts of makers over in Shenzhen to create projects using our lab, and as a result, spark creativity in the local community. A vital part of the program is the symbiotic relationship we want to build between the residents/makers and the Tsinghua students. 
+
+</br>
 
 
 :::
@@ -33,9 +39,9 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 
 
-<img src="/image/help.jpg">
+<img src="/image/help.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
-
+**OpenFIESTA is offering the follwing:**
 
 1. Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
 
@@ -48,9 +54,8 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
    - Biolab: https://openfiesta.space/labs/bio/
 
 4. A dedicated budget for materials that would be decided upon after having chosen the project and having assessed its needs.
-5. And more...
 
-<!-- 5. A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
+5. A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
 
 6. Fully-covered accommodation during the complete period of the residence. You will have an individual room with a private bathroom at Tsinghua Shenzhen International Graduate School.
 
@@ -60,9 +65,11 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
    - 1000 - 5000 km: The program will pay the tickets to a maximum of ¥2,100.
    - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500. -->
 
-
+</br>
 
 We would like to encourage applicants with special circumstances, to share with us any problems they might be facing in wanting to join our program.
+
+</br>
 
 
 :::
@@ -71,7 +78,7 @@ We would like to encourage applicants with special circumstances, to share with 
 
 
 
-<img src="/image/Shenzhen.jpg">
+<img src="/image/Shenzhen.jpg"  style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 
 
@@ -81,7 +88,11 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 <img align="left" width="500px" src="/image/ShenzhenNeon.jpg">
 
+<br>
 
+<br>
+
+<br>
 
 Shenzhen is a coastal city in South China. It is located on the eastern bank of the Pearl River, neighboring Hong Kong, and is home to the world's third-busiest container port and the fourth-busiest airport on the Chinese mainland. Shenzhen has been fundamental to China’s reform and opening-up policy. The Economist marveled at the "Miracle of Shenzhen,” China’s first Special Economic Zone (SEZ), calling it the biggest success of more than 4,000 SEZs in the world. The city attracts tremendous amounts of investment from both the local and national governments, and also from companies, both national and international.
 
@@ -90,29 +101,44 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 
 ::: tab Who we are looking for
 
-
+<br>
 
 **A (Bio) Maker / Hacker / Innovator**
 
 We are looking for talented makers around the four corners of the world to come to Shenzhen to start their own project and work to bring it to fruition using our facilities. The areas of interest can range from synthetic biology to open science hardware, STEAM Education, and Sustainable Development Goals (SDGs).
 
-
+</br>
 
 **Resilient**
 
 Coming for the first time to work in China can be a challenge. The opportunities of Shenzhen are limitless, but it is in your hand to be active and seize them. The culture is very different from western ones. We are looking for resilient people who could face unexpected daily challenges and are prepared to adapt as fast as unexpected circumstances require. As the maker collective, we know that this is something which defines it, so we are sure that all the makers who come to the labs will manage to use them better than anyone.
 
-Come join us hacking Shenzhen!
+> <br>
+
+*Come join us hacking Shenzhen!*
 
 
 :::
 
 ::: tab Program requirements
 
-- The residents have to facilitate one workshop per month related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
-- Well-described and understandable documentation of the project and results on the Open FIESTA Github. This should be composed of a proper description of all the research done by the residents during this period. The intellectual property of this work will belong to the people who have contributed to the development of the project (The resident, collaborators...), and will be registered under Creative Commons Attributions.
-- Open FIESTA will be required to appear as an official sponsor of the project in all of the hackers' work that will be related to our program.
-- A video explaining the project, its goals, and the results at the end of the residence.
+<div style:"margin:50px;">
+
+- The residents have to facilitate **one workshop per month** related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
+
+  
+
+- **Well-described** and understandable **documentation** of the project and results on the **Open FIESTA Github**. This should be composed of a proper description of all the research done by the residents during this period. *The intellectual property of this work will belong to the people who have contributed to the development of the project* (The resident, collaborators...), and will be registered under **Creative Commons Attributions**.
+
+  
+
+- **Open FIESTA** will be required to appear as an **official sponsor of the project** in all of the hackers' work that will be related to our program.
+
+  
+
+- A **video explaining the project**, its goals, and the results at the end of the residence.
+
+  </div>
 
 
 :::
@@ -121,7 +147,7 @@ Come join us hacking Shenzhen!
 
 
 
-**Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.** 
+<p style="margin:50px;">**Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**</p> 
 
 
 
