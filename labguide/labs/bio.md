@@ -8,9 +8,9 @@ title: Bio-X Lab
 
 ## Introduction
 
-The Bio-X Lab is an interdisciplinary biology lab which aims to provide the faculty with a space where students could prototype their own ideas around biology. 
+The Bio-X Lab is an interdisciplinary biology lab which aims to provide the faculty with a space where students could prototype their own ideas around biology. <br>
 
-In this space, you will find different equipment for working from molecular biology or genetics to microfluidics. 
+In this space, you will find different equipment for working from molecular biology or genetics to microfluidics. <br>
 
 For getting involved you have to contact directly the laboratory assistant who will provide the guidelines to start woking with us.
 
@@ -18,9 +18,9 @@ For getting involved you have to contact directly the laboratory assistant who w
 
 ## Rules of the space
 
-For responsible use of biotechnology, we need to maintain a proper level of organization, cleanliness and safety measures.
+For responsible use of biotechnology, we need to maintain a proper level of organization, cleanliness and safety measures.<br>
 
-To address this, the space has a series of rules that reflect the good practices that are mandatory to be followed by everyone. We all must follow them and, therefore, the lack of compliance with these rules would end with the permanent ban to use the space.
+To address this, the space has a series of rules that reflect the good practices that are mandatory to be followed by everyone. We all must follow them and, therefore, the lack of compliance with these rules would end with the permanent ban to use the space.<br>
 
 
 
