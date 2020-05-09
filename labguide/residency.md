@@ -167,7 +167,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img align="left" width="500px" src="/image/closed.jpg">
+<img align="left" width="500px" style="margin:25px;" src="/image/closed.jpg">
 
 :::
 
