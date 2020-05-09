@@ -16,5 +16,3 @@ title: Learning
 * [Thingiverse](https://www.thingiverse.com/)
 
 
-
-<Vssue :title="$title" />

@@ -5,5 +5,3 @@ title: Studio
 
 ## Equipment
 
-
-<Vssue :title="$title" />

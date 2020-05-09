@@ -35,3 +35,17 @@ Prototyping a new model of a university for the 21st century;
 - Building a worldwide open community for interdisciplinary discovery and innovation;
 - Exploring the solutions for sustainable development and innovation.
 
+<br>
+
+
+## BIO³ Master Program
+Tsinghua-CRI dual master's program in BIO³ (Biology - Nanobiology - Bioinfomatics) is on the frontier of interdisciplinary life science research covering the life sciences, nanoscience, technology, and information technology. The program promotes comprehensive understanding and cutting-edge innovation in fields related to the life sciences, advanced medical care and healthcare.
+
+<br>
+
+## IID Master Program
+Tsinghua-CRI dual Master's program in Internet+Innovation Design (IID) is on the frontier of interdisciplinary internet thinking and innovation, covering education, art, public management, environmental protection and finance. The program promotes comprehensive understanding and cutting-edge innovation in fields related to the internet and interdisciplinary design.
+
+<br>
+
+**[Master Program Admission](http://www.fiesta.tsinghua.edu.cn/admissions)**
