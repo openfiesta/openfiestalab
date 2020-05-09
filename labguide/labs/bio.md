@@ -293,5 +293,3 @@ This machines have two modes: Reverse osmosis grade water and [ultra-pure](https
 ### Western Blot
 
 Used for transferring negative charged molecules (Usually proteins) to a membrane (usually made of PVDF or nitrocellulose).
-
-<Vssue :title="$title" />
