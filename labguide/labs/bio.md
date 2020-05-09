@@ -4,7 +4,7 @@ title: Bio-X Lab
 
 
 
-<img src="/image/residency.png" style="margin-top:50px; margin-bottom:50px;">
+<img src="/image/lab/bio/header.jpg" style="margin-top:50px; margin-bottom:10px;">
 
 ## Introduction
 
@@ -51,7 +51,9 @@ To address this, the space has a series of rules that reflect the good practices
 
 <img align="left" width="221" style="margin: 25px" src="/image/fran.png">
 
-<p style="top-margin:25px;">Fran Quero is a biologist by train and a DIYbio enthusiast engaged in developing open biology communities. Fran helped to create the first open citizen biofablab of Madrid (Spain), and found the first collegiate and High School iGEM teams of the city.</p>
+<br>
+
+Fran Quero is a biologist by train and a DIYbio enthusiast engaged in developing open biology communities. Fran helped to create the first open citizen biofablab of Madrid (Spain), and found the first collegiate and High School iGEM teams of the city.
 
 <br>
 
