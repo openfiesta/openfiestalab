@@ -40,10 +40,9 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 
 
-<img src="/image/help.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
+<img src="/image/help.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 25px">
 
 <div style="margin:50px;">
-
 **OpenFIESTA is offering the follwing:**
 
 - Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
@@ -95,7 +94,7 @@ We would like to encourage applicants with special circumstances, to share with 
 
 
 
-<img src="/image/Shenzhen.jpg"  style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
+<img src="/image/Shenzhen.jpg" width="300px" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 <div style="margin:50px;">
 
@@ -167,7 +166,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img align="left" width="500px" style="margin:25px;" src="/image/closed.jpg">
+<img width="700px" style="margin:25px;float:center;" src="/image/closed.jpg">
 
 :::
 
