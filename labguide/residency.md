@@ -43,7 +43,8 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 <img src="/image/help.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 25px">
 
 <div style="margin:50px;">
-**OpenFIESTA is offering the follwing:**
+<b>OpenFIESTA is offering the follwing:</b>
+
 
 - Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
 
@@ -94,7 +95,7 @@ We would like to encourage applicants with special circumstances, to share with 
 
 
 
-<img src="/image/Shenzhen.jpg" width="300px" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
+<img src="/image/Shenzhen.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 <div style="margin:50px;">
 
@@ -102,9 +103,9 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 <br>
 
-<img align="left" width="500px" src="/image/ShenzhenNeon.jpg">
+<img align="left" width="450px" src="/image/ShenzhenNeon.jpg">
 
-<br>
+
 
 Shenzhen is a coastal city in South China. It is located on the eastern bank of the Pearl River, neighboring Hong Kong, and is home to the world's third-busiest container port and the fourth-busiest airport on the Chinese mainland. Shenzhen has been fundamental to China’s reform and opening-up policy. The Economist marveled at the "Miracle of Shenzhen,” China’s first Special Economic Zone (SEZ), calling it the biggest success of more than 4,000 SEZs in the world. The city attracts tremendous amounts of investment from both the local and national governments, and also from companies, both national and international.
 
@@ -166,7 +167,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img width="700px" style="margin:25px;float:center;" src="/image/closed.jpg">
+<img width="700px" style="margin:25px;align:center;" src="/image/closed.jpg">
 
 :::
 
