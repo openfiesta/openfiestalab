@@ -35,55 +35,46 @@ module.exports = {
                 nav:[
                     { text: 'Home', link: '/' },
                     {
-                        text: 'Space & Lab',
-                        items: [{
-                                text: 'Idea Cafe',
-                                link: '/labs/idea/'
-                            },
-                            {
-                                text: 'BIO-X Lab',
-                                link: '/labs/bio/'
-                            },
-                            {
-                                text: 'Design + Space',
-                                link: '/labs/iid/'
-                            },
-                            {
-                                text: 'Studio',
-                                link: '/labs/stu/'
-                            },
-                            {
-                                text: 'Machine Room',
-                                link: '/labs/machine/'
-                            }
-                        ]
-                    },
-                    {
                         text: 'Explore',
-                        items: [{
-                                text: 'Guidance',
-                                link: '/labs/'
+                        items: [
+                            {
+                                text: 'Code of Conduct',
+                                link: '/coc/'
+                            },
+                            {
+                                text: 'lab & Space',
+                                link: '/labs/',
+                            },
+                            {
+                                text: 'Learning',
+                                link: '/learning/'
                             },
                             {
                                 text: 'Project',
                                 link: '/projects/'
                             },
                             {
-                                text: 'Code of Conduct',
-                                link: '/coc/'
+                                text: 'Event',
+                                link: '/events/'
                             },
                             {
-                                text: 'GitHub Page',
-                                link: 'https://github.com/openfiesta'
+                                text: 'Club',
+                                link: '/club/'
+                            },
+                            {
+                                text: 'Toolbox',
+                                link: '/toolbox/'
+                            },
+                            {
+                                text: 'Friendly Link',
+                                link: '/coc/'
                             }
                         ]
                     },
                     {
-                        text: 'Join us',
+                        text: 'Program',
                         items: [
                             { text: 'Residency Program', link: '/residency/' },
-                            { text: 'Event & Workshop', link: '/events/' },
-                            { text: 'Student Club', link: '/club/' },
                             { text: 'Master Program', link: 'http://www.fiesta.tsinghua.edu.cn/admissions' }
                         ]
                     },
@@ -93,8 +84,10 @@ module.exports = {
                             { text: 'About Open FIESTA', link: '/about/' },
                             { text: 'About the website', link: '/website/' },
                             { text: 'Timeline', link: '/timeline/' },
-                            { text: 'Friendly Link', link: '/link/' }
-                        ]
+                            {
+                                text: 'GitHub Page',
+                                link: 'https://github.com/openfiesta'
+                            }                        ]
                     }
                 ],
                 displayAllHeaders: true,
