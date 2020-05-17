@@ -11,12 +11,9 @@ title: Residency
 ::: tab Our Vision
 
 <div style="margin:50px;">
-
-<p style="margin-bottom:25px;"> Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.</p>
-
-
-
 <img src="/image/lab/biolab.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
+
+**Open FIESTA** (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
 
 
 
@@ -38,12 +35,14 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 ::: tab What we are offering
 
-
-
-<img src="/image/help.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 25px">
-
 <div style="margin:50px;">
+
+<img src="/image/joelimg.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 25px">
+
+</br>
+
 <b>OpenFIESTA is offering the follwing:</b>
+
 
 
 - Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
@@ -93,17 +92,17 @@ We would like to encourage applicants with special circumstances, to share with 
 
 ::: tab Why Shenzhen
 
-
+<div style="margin:50px;">
 
 <img src="/image/Shenzhen.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
-<div style="margin:50px;">
+</br>
 
 Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiangbei, the world’s largest electronics market is located at Shenzhen, and it has anything for which you might wish. Huaqiangbei and surrounding electronics marketplaces have earned Shenzhen nicknames, such as "China's Silicon Valley" and the "Silicon Valley of Hardware." These markets are coupled to a vast hardware manufacturing infrastructure that has given rise to companies as big as Huawei, Tencent, and Evergrande. Shenzhen is the world’s electronics factory, producing 90% of all electronics. This fact has led to a boom of makerspaces, such as Chaihuo Maker Space, Troublemaker, SEGMaker, and SZOIL. Further proof of the magnitude of this hardware hub is that Shenzhen’s GDP has grown to the third in China, after Beijing and Shanghai, and the eighth in the world. This is why makers (aka you) can find an environment in Shenzhen where they can truly succeed, to develop their hardware product with the best support available.
 
 <br>
 
-<img align="left" width="400px" src="/image/ShenzhenNeon.jpg">
+<img align="left" width="450px" src="/image/ShenzhenNeon.jpg">
 
 
 
@@ -176,7 +175,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ---
 
 
-|    <img align="middle" width="200" src="/image/fran.png">    |    <img align="middle" width="200" src="/image/Nael.jpg">    |    <img align="middle" width="200" src="/image/Nael.jpg">    |
+| <img style="width:33%;display:block;margin:auto;" src="/image/fran.png"> | <img style="width:33%;display:block;margin:auto;" src="/image/Nael.jpg"> | <img style="width:33%;display:block;margin:auto;" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -187,9 +186,9 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img align="middle" width="200" src="/image/Nael.jpg"> | <img align="middle" width="200" src="/image/Nael.jpg"> | <img align="middle" width="200" src="/image/Nael.jpg"> |
-| :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-|                   **Rachel Arunoff**                   |               **Dimitrios Michailidis**                |                   **Guy Aidelberg**                    |
+| <img style="width:25%;display:block;margin:auto;" src="/image/residency/rachel.jpg"> | <img style="width:25%;display:block;margin:auto;" src="/image/Nael.jpg"> | <img astyle="width:25%;display:block;margin:auto;" src="/image/Guy.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
 
 </div>
 
@@ -202,7 +201,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img width="700px" align="middle" style="margin:25px;align:center;" src="/image/closed.jpg">
+<img width="700px" align="middle" style="margin:25px;display:block;" src="/image/closed.jpg">
 
 :::
 
