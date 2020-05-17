@@ -43,7 +43,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 <b>OpenFIESTA is offering the follwing:</b>
 
-
+<br>
 
 - Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
 
@@ -179,7 +179,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 
 
-#### The team
+### The team
 ---
 
 
@@ -190,13 +190,13 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 </br>
 
-#### Collaborators
+### Collaborators
 
 ---
 
-| <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/Nael.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/lorenzo.jpg"> |
-| :----------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------------------: | :-------------------------------------------------: |
-|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                     |                 **Vanessa Lorenzo**                 |
+| <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/Nael.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/residency/lorenzo.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
 
 </div>
 
