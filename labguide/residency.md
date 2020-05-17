@@ -117,8 +117,13 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 ::: tab Requirements
 
 <div style="margin:50px;">
-#### Deliverables and program conditions
+
+### Deliverables and program conditions
+
 ---
+
+</br>
+
 
 - The residents have to facilitate **one workshop per month** related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
 
@@ -136,9 +141,11 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 
 <br>
 
-#### Who we are looking for
+### Who we are looking for
 
 ---
+
+</br>
 
 **A (Bio) Maker / Hacker / Innovator**
 
@@ -167,7 +174,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 
 
-| <img width="221" style="margin: 25px" src="/image/fran.png"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> |
+| <img align="center" width="200" style="margin: 25px" src="/image/fran.png"> | <img align="center" width="00" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -178,7 +185,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> |
+| <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
 
