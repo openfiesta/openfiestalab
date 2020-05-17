@@ -194,9 +194,9 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/Nael.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/residency/lorenzo.jpg"> |
-| :----------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
-|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
+| <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/residency/Dimitrios.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/residency/lorenzo.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
 
 </div>
 
