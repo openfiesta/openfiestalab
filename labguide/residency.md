@@ -98,7 +98,7 @@ We would like to encourage applicants with special circumstances, to share with 
 
 </br>
 
-<div style="margin-left:5px;"
+<div style="margin-left:5px;">
 
 Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiangbei, the world’s largest electronics market is located at Shenzhen, and it has anything for which you might wish. Huaqiangbei and surrounding electronics marketplaces have earned Shenzhen nicknames, such as "China's Silicon Valley" and the "Silicon Valley of Hardware." These markets are coupled to a vast hardware manufacturing infrastructure that has given rise to companies as big as Huawei, Tencent, and Evergrande. Shenzhen is the world’s electronics factory, producing 90% of all electronics. This fact has led to a boom of makerspaces, such as Chaihuo Maker Space, Troublemaker, SEGMaker, and SZOIL. Further proof of the magnitude of this hardware hub is that Shenzhen’s GDP has grown to the third in China, after Beijing and Shanghai, and the eighth in the world. This is why makers (aka you) can find an environment in Shenzhen where they can truly succeed, to develop their hardware product with the best support available.
 
@@ -194,9 +194,9 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img style="width:200px;" src="/image/residency/rachel.jpeg"> | <img style="width:200px;" src="/image/Nael.jpg"> | <img astyle="width:200px;" src="/image/residency/Guy.jpg"> |
-| :----------------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------------: |
-|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                      |
+| <img style="width:200px;" src="/image/residency/rachel.jpeg"> | <img style="width:200px;" src="/image/Nael.jpg"> | <img style="width:200px;" src="/image/residency/Guy.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------: | :-------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                     |
 
 </div>
 
