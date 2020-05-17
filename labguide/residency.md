@@ -102,7 +102,7 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 <br>
 
-<img align="left" width="450px" src="/image/ShenzhenNeon.jpg">
+<img align="left" width="400px" style="margin:25px" src="/image/ShenzhenNeon.jpg">
 
 <br>
 
@@ -179,7 +179,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ---
 
 
-| <img style="width:33%;display:block;margin:1px;" src="/image/fran.png"> | <img style="width:33%;display:block;margin:1px;" src="/image/Nael.jpg"> | <img style="width:33%;display:block;margin:1px;" src="/image/Nael.jpg"> |
+|       <img style="width:200px;" src="/image/fran.png">       |       <img style="width:200px;" src="/image/Nael.jpg">       |       <img style="width:200px;" src="/image/Nael.jpg">       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -190,9 +190,9 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img style="width:25%;display:block;margin:1px;" src="/image/residency/rachel.jpeg"> | <img style="width:25%;display:block;margin:1px;" src="/image/Nael.jpg"> | <img astyle="width:25%;display:block;margin:1px;" src="/image/residency/Guy.jpg"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
+| <img style="width:200px;" src="/image/residency/rachel.jpeg"> | <img style="width:200px;" src="/image/Nael.jpg"> | <img astyle="width:200px;" src="/image/residency/Guy.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |            **Dimitrios Michailidis**             |                     **Guy Aidelberg**                      |
 
 </div>
 
