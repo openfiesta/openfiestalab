@@ -213,6 +213,10 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 <img width="700px" style="margin:25px;display:block;margin:auto;" src="/image/closed.jpg">
 
+<br>
+
+<br>
+
 :::
 
 ::::
