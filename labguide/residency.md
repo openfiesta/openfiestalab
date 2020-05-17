@@ -103,7 +103,7 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 <br>
 
-<img align="left" width="450px" src="/image/ShenzhenNeon.jpg">
+<img align="left" width="400px" src="/image/ShenzhenNeon.jpg">
 
 
 
@@ -176,7 +176,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ---
 
 
-| <img align="middle" width="200" style="margin: 25px" src="/image/fran.png"> | <img align="middle" width="00" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
+|    <img align="middle" width="200" src="/image/fran.png">    |    <img align="middle" width="200" src="/image/Nael.jpg">    |    <img align="middle" width="200" src="/image/Nael.jpg">    |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -187,9 +187,9 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
+| <img align="middle" width="200" src="/image/Nael.jpg"> | <img align="middle" width="200" src="/image/Nael.jpg"> | <img align="middle" width="200" src="/image/Nael.jpg"> |
+| :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
+|                   **Rachel Arunoff**                   |               **Dimitrios Michailidis**                |                   **Guy Aidelberg**                    |
 
 </div>
 
@@ -202,7 +202,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img width="700px" style="margin:25px;align:center;" src="/image/closed.jpg">
+<img width="700px" align="middle" style="margin:25px;align:center;" src="/image/closed.jpg">
 
 :::
 
