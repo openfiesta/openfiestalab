@@ -13,9 +13,9 @@ title: Residency
 <div style="margin:50px;">
 <img src="/image/lab/biolab.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
-**Open FIESTA** (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
+Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
 
-
+<br>
 
 **Open FIESTA Community Lab**
 
@@ -104,11 +104,15 @@ Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiang
 
 <img align="left" width="450px" src="/image/ShenzhenNeon.jpg">
 
-
+<br>
 
 Shenzhen is a coastal city in South China. It is located on the eastern bank of the Pearl River, neighboring Hong Kong, and is home to the world's third-busiest container port and the fourth-busiest airport on the Chinese mainland. Shenzhen has been fundamental to China’s reform and opening-up policy. The Economist marveled at the "Miracle of Shenzhen,” China’s first Special Economic Zone (SEZ), calling it the biggest success of more than 4,000 SEZs in the world. The city attracts tremendous amounts of investment from both the local and national governments, and also from companies, both national and international.
 
 </div>
+
+<br>
+
+<br>
 
 
 :::
@@ -175,7 +179,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ---
 
 
-| <img style="width:33%;display:block;margin:auto;" src="/image/fran.png"> | <img style="width:33%;display:block;margin:auto;" src="/image/Nael.jpg"> | <img style="width:33%;display:block;margin:auto;" src="/image/Nael.jpg"> |
+| <img style="width:33%;display:block;margin:1px;" src="/image/fran.png"> | <img style="width:33%;display:block;margin:1px;" src="/image/Nael.jpg"> | <img style="width:33%;display:block;margin:1px;" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -186,7 +190,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img style="width:25%;display:block;margin:auto;" src="/image/residency/rachel.jpg"> | <img style="width:25%;display:block;margin:auto;" src="/image/Nael.jpg"> | <img astyle="width:25%;display:block;margin:auto;" src="/image/Guy.jpg"> |
+| <img style="width:25%;display:block;margin:1px;" src="/image/residency/rachel.jpeg"> | <img style="width:25%;display:block;margin:1px;" src="/image/Nael.jpg"> | <img astyle="width:25%;display:block;margin:1px;" src="/image/residency/Guy.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
 
@@ -201,7 +205,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 **Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
 
-<img width="700px" align="middle" style="margin:25px;display:block;" src="/image/closed.jpg">
+<img width="700px" style="margin:25px;display:block;margin:auto;" src="/image/closed.jpg">
 
 :::
 
