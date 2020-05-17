@@ -169,12 +169,14 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ::: tab Who makes it possible
 
 <div style="margin:50px;">
+
+
+
 #### The team
 ---
 
 
-
-| <img align="center" width="200" style="margin: 25px" src="/image/fran.png"> | <img align="center" width="00" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
+| <img align="middle" width="200" style="margin: 25px" src="/image/fran.png"> | <img align="middle" width="00" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
 | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
@@ -185,7 +187,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
-| <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="center" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
+| <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> | <img align="middle" width="200" style="margin: 25px" src="/image/Nael.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
 
