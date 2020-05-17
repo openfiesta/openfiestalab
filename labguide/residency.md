@@ -114,9 +114,31 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 
 :::
 
-::: tab Who we are looking for
+::: tab Requirements
 
 <div style="margin:50px;">
+#### Deliverables and program conditions
+---
+
+- The residents have to facilitate **one workshop per month** related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
+
+  
+
+- **Well-described** and understandable **documentation** of the project and results on the **Open FIESTA Github**. This should be composed of a proper description of all the research done by the residents during this period. *The intellectual property of this work will belong to the people who have contributed to the development of the project* (The resident, collaborators...), and will be registered under **Creative Commons Attributions**.
+
+  
+
+- **Open FIESTA** will be required to appear as an **official sponsor of the project** in all of the hackers' work that will be related to our program.
+
+  
+
+- A **video explaining the project**, its goals, and the results at the end of the residence.
+
+<br>
+
+#### Who we are looking for
+
+---
 
 **A (Bio) Maker / Hacker / Innovator**
 
@@ -137,26 +159,30 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 :::
 
-::: tab Program requirements
+::: tab Who makes it possible
 
 <div style="margin:50px;">
+#### The team
+---
 
 
-- The residents have to facilitate **one workshop per month** related to their project. Our main goal for these workshops is that they inspire the local community in Shenzhen.
 
-  
+| <img width="221" style="margin: 25px" src="/image/fran.png"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
+| Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
 
-- **Well-described** and understandable **documentation** of the project and results on the **Open FIESTA Github**. This should be composed of a proper description of all the research done by the residents during this period. *The intellectual property of this work will belong to the people who have contributed to the development of the project* (The resident, collaborators...), and will be registered under **Creative Commons Attributions**.
+</br>
 
-  
+#### Collaborators
 
-- **Open FIESTA** will be required to appear as an **official sponsor of the project** in all of the hackers' work that will be related to our program.
+---
 
-  
+| <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> | <img width="221" style="margin: 25px" src="/image/Nael.jpg"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                      **Guy Aidelberg**                       |
 
-- A **video explaining the project**, its goals, and the results at the end of the residence.
-
-  </div>
+</div>
 
 
 :::
