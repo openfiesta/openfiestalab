@@ -25,7 +25,7 @@ As an interdisciplinary teaching lab & learning space, we provide an unique plac
 
 **Roadmap - What is the residency program?**
 
-We have built the laboratory facilities of our Open FIESTA Community Lab, and now seek to create a community around it. To that end, we have established the residency program. Hackers in Residence wants to jumpstart the making of this community by inviting cohorts of makers over in Shenzhen to create projects using our lab, and as a result, spark creativity in the local community. A vital part of the program is the symbiotic relationship we want to build between the residents/makers and the Tsinghua students. 
+We have built the laboratory facilities of our Open FIESTA Community Lab, and now seek to create a community around it. To that end, we have established the residency program which wants to jumpstart the making of this community by inviting cohorts of makers over in Shenzhen to create projects using our lab, and as a result, spark creativity in the local community. A vital part of the program is the symbiotic relationship we want to build between the residents/makers and the Tsinghua students. 
 
 </br>
 
@@ -41,7 +41,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 </br>
 
-<b>OpenFIESTA is offering the follwing:</b>
+<b>OpenFIESTA is offering the following:</b>
 
 <br>
 
