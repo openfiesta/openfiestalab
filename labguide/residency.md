@@ -183,10 +183,10 @@ Coming for the first time to work in China can be a challenge. The opportunities
 ---
 
 
-|       <img style="width:200px;" src="/image/fran.png">       |       <img style="width:200px;" src="/image/Nael.jpg">       |       <img style="width:200px;" src="/image/Nael.jpg">       |
+|       <img style="width:200px;" src="/image/fran.png">       |       <img style="width:200px;" src="/image/Nael.jpg">       |        <img style="width:200px;" src="/image/Ji.jpg">        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                        **Fran Quero**                        |                           **Nael**                           |                          **Ji Li**                           |
-| Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. |
+|                        **Fran Quero**                        |                     **Nael Hailemariam**                     |                          **Ji Li**                           |
+| Fran Quero is a Spanish biologist and a DIYbio enthusiast engaged in developing open science communities. Currently he is enrolled as a student of the BIO3 master and the Bio X-Space laboratory assistant. | Nael is an Ethiopian and a masters' student of Data Science and Information Technology in the Open FIESTA Program of Tsinghua University. He is interning at Tencent and the Design + Space laboratory assistant. | Lab manager and engineer of Tsinghua Open FIESTA. He helped design and build Open FIESTA's space and interdisciplinary labs. And he is the local organizer of several international events of open science and SDGs. |
 
 </br>
 
@@ -196,7 +196,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 | <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/residency/Dimitrios.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/residency/lorenzo.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
-|                      **Rachel Arunoff**                      |                  **Dimitrios Michailidis**                   |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
+|                      **Rachel Aronoff**                      |                  **Dimitrios Michailidis**                   |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
 
 </div>
 
