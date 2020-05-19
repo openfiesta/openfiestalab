@@ -96,4 +96,3 @@ title: Bio-X Lab
 
 ### 生物显微镜
 
-<Vssue :title="$title" />

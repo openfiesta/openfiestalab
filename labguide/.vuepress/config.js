@@ -67,7 +67,7 @@ module.exports = {
                             },
                             {
                                 text: 'Friendly Link',
-                                link: '/coc/'
+                                link: '/link/'
                             }
                         ]
                     },
@@ -118,51 +118,49 @@ module.exports = {
                 nav: [
                     { text: '主页', link: '/zh/' },
                     {
-                        text: '空间 & 实验室',
-                        items: [{
-                                text: '创意交互空间',
-                                link: '/zh/labs/idea/'
-                            },
-                            {
-                                text: '生命健康交叉实验室',
-                                link: '/zh/labs/bio/'
-                            },
-                            {
-                                text: '创新设计实验室',
-                                link: '/zh/labs/stu/'
-                            },
-                            {
-                                text: '机械加工间',
-                                link: '/zh/labs/machine/'
-                            }
-                        ]
-                    },
-                    {
                         text: '探索',
                         items: [{
-                                text: '空间指南',
+                                text: '行为准则',
+                                link: '/zh/coc/'
+                            },
+                            {
+                                text: '实验室',
                                 link: '/zh/labs/'
+                            },
+                            {
+                                text: '学习',
+                                link: '/zh/learning/'
                             },
                             {
                                 text: '项目',
                                 link: '/zh/projects/'
                             },
                             {
-                                text: '行为准则',
-                                link: '/zh/coc/'
+                                text: '工具箱',
+                                link: '/zh/toolbox/'
                             },
                             {
-                                text: 'Github',
-                                link: 'https://github.com/openfiesta'
-                            }
+                                text: '项目',
+                                link: '/zh/projects/'
+                            },
+                            {
+                                text: '学生社团',
+                                link: '/zh/club/'
+                            },
+                            {
+                                text: '开放活动',
+                                link: '/zh/events/'
+                            },
+                            {
+                                text: '友情链接',
+                                link: '/zh/link/'
+                            },
                         ]
-                    }, 
+                    },
                     {
-                        text: '加入我们',
+                        text: '加入项目',
                         items: [
                             { text: '入驻项目', link: '/zh/residency/' },
-                            { text: '开放活动', link: '/zh/events/' },
-                            { text: '学生社团', link: '/zh/club/' },
                             { text: '硕士项目', link: 'http://www.fiesta.tsinghua.edu.cn/cn/admissions' }
                         ]
                     },
@@ -172,7 +170,10 @@ module.exports = {
                             { text: '关于Open FIESTA', link: '/zh/about/' },
                             { text: '关于网站', link: '/zh/website/' },
                             { text: '时间线', link: '/zh/timeline/' },
-                            { text: '友情链接', link: '/zh/link/' }
+                            {
+                                text: 'Github',
+                                link: 'https://github.com/openfiesta'
+                            }
                         ]
                     },
                 ],

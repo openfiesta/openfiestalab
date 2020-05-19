@@ -11,4 +11,3 @@ title: Design + Space
 
 ### 机械臂
 
-<Vssue :title="$title" />

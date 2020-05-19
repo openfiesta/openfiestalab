@@ -1,11 +1,13 @@
 ---
 home: true
-heroText: RESIDENCY PROGRAM
-tagline: In Open FIESTA, Tsinghua University Shenzhen
-actionText: Apply 2020
-actionLink: /applyresidency/
+heroText: FIESTA RESIDENCY PROGRAM
+tagline: Coming Soon
+# actionText: Apply 2020
+# actionLink: /applyresidency/
 title: Residency
 ---
+
+<img src="/image/residency000.jpg">
 
 :::: tabs type:card
 ::: tab Our Vision
@@ -64,7 +66,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 - A dedicated budget for materials that would be decided upon after having chosen the project and having assessed its needs.
 
   <br>
-
+<!-- 
 - A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
 
   <br>
@@ -77,7 +79,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
    - 0 - 1000 km: The program will pay the tickets to a maximum of ¥700.
    - 1000 - 5000 km: The program will pay the tickets to a maximum of ¥2,100.
-   - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500. 
+   - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500.  -->
 
 </br><br>
 
