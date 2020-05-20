@@ -10,9 +10,12 @@ title: Residency
 <img src="/image/residency000.jpg">
 
 :::: tabs type:card
-::: tab Our Vision
+::: tab What
 
 <div style="margin:50px;">
+
+## Our Vision
+
 <img src="/image/lab/biolab.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
@@ -39,6 +42,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 <div style="margin:50px;">
 
+
 <img src="/image/joelimg.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 25px">
 
 </br>
@@ -57,16 +61,16 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 - Two well-equipped labs, the Fablab and the Biolab, and also an open Space for brainstorming and events. For a complete list of all the resources available, please see: https://openfiesta.space/labs/.
 
-   - Makerspace: includes the design + space room (https://openfiesta.space/labs/iid/) and the machine room (https://openfiesta.space/labs/machine/)
+  - Makerspace: includes the design + space room (https://openfiesta.space/labs/iid/) and the machine room (https://openfiesta.space/labs/machine/)
 
-   - Biolab: https://openfiesta.space/labs/bio/
+  - Biolab: https://openfiesta.space/labs/bio/
 
-     <br>
+    <br>
 
 - A dedicated budget for materials that would be decided upon after having chosen the project and having assessed its needs.
 
   <br>
-<!-- 
+
 - A compensation of ¥4,000 for organising and running monthly workshops as a required part of the program. (For more information about the workshops, head to the "What we expect?" section of this document).
 
   <br>
@@ -77,9 +81,9 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 - A basic stipend of ¥5,000 for the 2-month residence. This is to cover basic needs, such as sustenance and transportation during the residence period. The purpose of this budget is to support living in the city, and does not constitute a working salary. Partial financial support towards flight expenses of the residents to Shenzhen, dependent on the total distance travelled: 
 
-   - 0 - 1000 km: The program will pay the tickets to a maximum of ¥700.
-   - 1000 - 5000 km: The program will pay the tickets to a maximum of ¥2,100.
-   - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500.  -->
+  - 0 - 1000 km: The program will pay the tickets to a maximum of ¥700.
+  - 1000 - 5000 km: The program will pay the tickets to a maximum of ¥2,100.
+  - More than 5000 km: The program will pay the tickets to a maximum of ¥3,500. 
 
 </br><br>
 
@@ -92,15 +96,18 @@ We would like to encourage applicants with special circumstances, to share with 
 
 :::
 
-::: tab Why Shenzhen
+::: tab Where
 
 <div style="margin:50px;">
+
+## Why Shenzhen
 
 <img src="/image/Shenzhen.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 </br>
 
 <div style="margin-left:5px;">
+
 
 Shenzhen is a world-renowned hardware manufacturing hub. To begin with, Huaqiangbei, the world’s largest electronics market is located at Shenzhen, and it has anything for which you might wish. Huaqiangbei and surrounding electronics marketplaces have earned Shenzhen nicknames, such as "China's Silicon Valley" and the "Silicon Valley of Hardware." These markets are coupled to a vast hardware manufacturing infrastructure that has given rise to companies as big as Huawei, Tencent, and Evergrande. Shenzhen is the world’s electronics factory, producing 90% of all electronics. This fact has led to a boom of makerspaces, such as Chaihuo Maker Space, Troublemaker, SEGMaker, and SZOIL. Further proof of the magnitude of this hardware hub is that Shenzhen’s GDP has grown to the third in China, after Beijing and Shanghai, and the eighth in the world. This is why makers can find an environment in Shenzhen where they can truly succeed, to develop their hardware product with the best support available.
 
@@ -127,6 +134,7 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 
 <div style="margin:50px;">
 
+
 ### Deliverables and program conditions
 
 ---
@@ -147,6 +155,8 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
   
 
 - A **video explaining the project**, its goals, and the results at the end of the residence.
+
+<br>
 
 <br>
 
@@ -175,13 +185,13 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 :::
 
-::: tab Who makes it possible
+::: tab Who
 
 <div style="margin:50px;">
 
 
-
 ### The team
+
 ---
 
 
@@ -205,7 +215,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 :::
 
-::: tab How to apply
+::: tab Apply
 
 
 
