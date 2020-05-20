@@ -10,12 +10,9 @@ title: Residency
 <img src="/image/residency000.jpg">
 
 :::: tabs type:card
-::: tab What
+::: tab Our Vision
 
 <div style="margin:50px;">
-
-## Our Vision
-
 <img src="/image/lab/biolab.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 Open FIESTA (Open Faculty for Innovation, Education, Science, Technology and Art, Tsinghua University) is aiming to build a global hub and a worldwide network to foster next generation research, education, and innovation. As part of the Open FIESTA, our goal is to build and establish a Community Lab.
@@ -96,12 +93,9 @@ We would like to encourage applicants with special circumstances, to share with 
 
 :::
 
-::: tab Where
+::: tab Why Shenzhen
 
 <div style="margin:50px;">
-
-## Why Shenzhen
-
 <img src="/image/Shenzhen.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
 
 </br>
