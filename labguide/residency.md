@@ -48,7 +48,7 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 <br>
 
-- Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis.
+- Two months of residence that can further be discussed with the applicants, and the exact time will be decided on a case-by-case basis.
 
   <br>
 
@@ -58,9 +58,9 @@ We have built the laboratory facilities of our Open FIESTA Community Lab, and no
 
 - Two well-equipped labs, the Fablab and the Biolab, and also an open Space for brainstorming and events. For a complete list of all the resources available, please see: https://openfiesta.space/labs/.
 
-  - Makerspace: includes the design + space room (https://openfiesta.space/labs/iid/) and the machine room (https://openfiesta.space/labs/machine/)
+  - Makerspace: includes the [design + space room](https://openfiesta.space/labs/iid/) and the [machine room](https://openfiesta.space/labs/machine/)
 
-  - Biolab: https://openfiesta.space/labs/bio/
+  - [Biolab](https://openfiesta.space/labs/bio/).
 
     <br>
 
@@ -144,7 +144,7 @@ Shenzhen is a coastal city in South China. It is located on the eastern bank of 
 
   
 
-- **Open FIESTA** will be required to appear as an **official sponsor of the project** in all of the hackers' work that will be related to our program.
+- **Open FIESTA** will be required to be attributed as an **official sponsor of the project** in all of the resident work that will be related to our program.
 
   
 
@@ -200,6 +200,10 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 ---
 
+Collaborators are any person that have help us to develop a better program, either giving us priceless feedback or putting their own efforts for the improvement of this residencies. Anyone could became a collaborator as any relevant contribution forseeking a more useful program is welcomed.  Please, don't hesitate to write us for joining efforts.
+
+
+
 | <img style="width:175px;" src="/image/residency/rachel.jpeg"> | <img style="width:175px;" src="/image/residency/Dimitrios.jpg"> | <img style="width:175px;" src="/image/residency/Guy.jpg"> | <img style="width:175px;" src="/image/residency/lorenzo.jpg"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
 |                      **Rachel Aronoff**                      |                  **Dimitrios Michailidis**                   |                     **Guy Aidelberg**                     |                     **Vanessa Lorenzo**                      |
@@ -213,7 +217,7 @@ Coming for the first time to work in China can be a challenge. The opportunities
 
 
 
-**Given the ongoing impact of COVID-19, we will announce in the early days of June whether the 2020 Residency Program will still be held.**
+**Given the ongoing impact of COVID-19, we will announce soon whether the 2020 Residency Program will still be held.**
 
 <br>
 
