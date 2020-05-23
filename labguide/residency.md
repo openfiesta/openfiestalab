@@ -135,11 +135,9 @@ title: Residency
 
 <br>
 
-### What does this mean?
+#### What does this mean?
 
----
-
-
+<br>
 
 We have set up [this document](https://docs.google.com/document/d/1Bpl-b7kBHLbLTy8gcdyMMjCiNyooin71m9NvW5oJ-_M/edit?usp=sharing) where anyone can propose events and brainstorm ideas around the agenda of the residency program. The feasibility of this changes will be consider by a broad panel composed by the program staff and external advisors. 
 
