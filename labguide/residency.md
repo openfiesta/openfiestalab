@@ -131,17 +131,16 @@ title: Residency
 
 <div style="margin:50px;">
 <img src="/image/unresidency.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
-<p align="justify">The **(Un)Residency** concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events' agenda.</p>
 
-<p align="justify"> The philosophy behind this organization model is to avoid the hierarchical aspects of conventional programs creating a decentralized bottom-up coordination. </p>
+<p align="justify">The <b>(Un)Residency</b> concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events' agenda. The philosophy behind this organization model is to avoid the hierarchical aspects of conventional programs creating a decentralized bottom-up coordination. </p>
 
 <br>
 
-**What do this means?**
+#### What does this mean?
 
 We have set up [this document](https://docs.google.com/document/d/1Bpl-b7kBHLbLTy8gcdyMMjCiNyooin71m9NvW5oJ-_M/edit?usp=sharing) where anyone can propose events and brainstorm ideas around the agenda of the residency program. The feasibility of this changes will be consider by a broad panel composed by the program staff and external advisors. 
 
-
+<br>
 
 Feel free to contribute to the improvement of this program with all your imagination!
 
