@@ -50,7 +50,7 @@ title: Residency
 
 - Two months of residence that can further be discussed with the applicants, and the exact time will be decided on a case-by-case basis.
 
-- <br>
+<br>
 
 - <p align="justify">Two months of residence that can further be discussed with the applicants, and will be decided on a case-by-case basis. </p>
 
@@ -131,7 +131,7 @@ title: Residency
 
 <div style="margin:50px;">
 <img src="/image/unresidency.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
-<p align="justify">The <b>(Un)Residency</b> concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events' agenda. The philosophy behind this organizational model is to avoid the hierarchical aspects of conventional programs creating a decentralized bottom-up coordination. </p>
+<p align="justify">The <b>(Un)Residency</b> concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events' agenda. The philosophy behind this organizational model is to avoid the hierarchical aspects of conventional programs creating decentralized bottom-up coordination. </p>
 
 <br>
 
@@ -139,7 +139,7 @@ title: Residency
 
 <br>
 
-We have set up [this document](https://docs.google.com/document/d/1Bpl-b7kBHLbLTy8gcdyMMjCiNyooin71m9NvW5oJ-_M/edit?usp=sharing) where anyone can propose events and brainstorm ideas around the agenda of the residency program. The feasibility of this changes will be consider by a broad panel composed by the program staff and external advisors. 
+We have set up [this document](https://docs.google.com/document/d/1Bpl-b7kBHLbLTy8gcdyMMjCiNyooin71m9NvW5oJ-_M/edit?usp=sharing) where anyone can propose events and brainstorm ideas around the agenda of the residency program. The feasibility of these changes will be considered by a broad panel composed by the program staff and external advisors. 
 
 <br>
 
@@ -250,7 +250,7 @@ Feel free to contribute to the improvement of this program with all your imagina
 
 ---
 
-Collaborators are any person that have help us to develop a better program, either giving us priceless feedback or putting their own efforts for the improvement of this residencies. Anyone could became a collaborator as any relevant contribution forseeking a more useful program is welcomed.  Please, don't hesitate to write us for joining efforts.
+<p align="justify"> Collaborators are any person that helped us to develop the program, either by giving us priceless feedback or putting their efforts for the improvement of the residency program. Anyone could become a collaborator as any relevant contribution to seeking a more useful program is welcomed. Please, don't hesitate to write to us for joining efforts.</p>
 
 
 
