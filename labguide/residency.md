@@ -125,6 +125,40 @@ title: Residency
 
 <br>
 
+:::
+
+::: tab Apply
+
+
+
+**Given the ongoing impact of COVID-19, we will announce soon whether the 2020 Residency Program will still be held.**
+
+<br>
+
+<img width="700px" style="margin:25px;display:block;margin:auto;" src="/image/closed.jpg">
+
+<br>
+
+<br>
+
+:::
+
+::: tab (Un)Residency
+
+<div style="margin:50px;">
+<img src="/image/unresidency.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
+
+<p align="justify">The term UnResidency comes from the unconference spirit. Unconferences are participant-driven gatherings, where participants are involved in the decision-making process of the events' agenda.</p>
+
+<p align="justify"> The philosophy behind this organization model is to avoid the hierarchical aspects of conventional programs and move from a top-down organization to a decentralized bottom-top coordination. </p>
+
+<br>
+
+What do this means?**
+
+We have set up [this document](https://docs.google.com/document/d/1Bpl-b7kBHLbLTy8gcdyMMjCiNyooin71m9NvW5oJ-_M/edit?usp=sharing) where anyone can propose events and brainstorm ideas around the agenda of the residency program. The feasibility of this changes will be consider by a broad panel composed by the program staff and advisors. Feel free to contribute with any ideas to the improvement of this opportunity!
+
+</div>
 
 :::
 
@@ -176,9 +210,9 @@ title: Residency
 
 <br>
 
-**Recommend**
+**An openFIESTA ambassador**
 
-<p align="justify"> As the Open FIESTA program is striving to attract world talents, we expect the candidate to recommend the program to talented students in his/her network with a creative spirit, entrepreneurial capability, and strong social responsibility. </p>
+<p align="justify"> As the Open FIESTA program is striving to attract world talents, we expect the candidate to recommend the different programs in openFIESTA to talented students in his/her network with a creative spirit, entrepreneurial capability, and strong social responsibility. </p>
 
 <br>
 
@@ -189,7 +223,7 @@ title: Residency
 
 :::
 
-::: tab Who Makes it Possible?
+::: tab Who makes it Possible?
 
 <div style="margin:50px;">
 
@@ -220,22 +254,6 @@ Collaborators are any person that have help us to develop a better program, eith
 
 </div>
 
-
-:::
-
-::: tab Apply
-
-
-
-**Given the ongoing impact of COVID-19, we will announce soon whether the 2020 Residency Program will still be held.**
-
-<br>
-
-<img width="700px" style="margin:25px;display:block;margin:auto;" src="/image/closed.jpg">
-
-<br>
-
-<br>
 
 :::
 
