@@ -6,11 +6,11 @@ tagline: Open FIESTA, Tsinghua Shenzhen
 actionText: Lab Guidance →
 actionLink: /labs/
 features:
-- title: Teaching Lab / Learning Space for students
+- title: Teaching Lab / Learning Space for Students
   details: We create an environment where students with different culture and backgroud could learn, collaborate and innovative with each other. 
 - title: Community Lab of Open Science
   details: Unlike a traditional lab, the research goals and projects are set by the makers / students themselves in Open FIESTA's Lab. 
-- title: Shenzhen SDG Sulotion Space
+- title: Shenzhen SDG Solution Space
   details: By connecting the technology resources of Shenzhen and innovators all over the world, we collectively solve SDGs problems.
 footer:  Copyright © 2019-2020 Open FIESTA
 ---
