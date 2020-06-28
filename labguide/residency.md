@@ -21,13 +21,13 @@ title: Residency
 
 **Open FIESTA Community Lab**
 
-<p align="justify"> As an interdisciplinary teaching lab & learning space, we provide an unique place where students experiment, try different ideas and learn in the process. Some of them do it as initial research for a startup, some of them just out of curiosity and a passion to create. Unlike a traditional research lab in universities or companies, in our lab the research goals are set by the makers themselves according to Open Science spirit.  If you have a project you couldn't get support for, from traditional labs, come and do it in Open FIESTA. </p>
+<p align="justify"> As an interdisciplinary teaching lab & learning space, we provide a unique place where students experiment, try different ideas and learn in the process. Some of them do it as initial research for a startup, some of them just out of curiosity and a passion to create. Unlike a traditional research lab in universities or companies, in our lab the research goals are set by the makers themselves according to Open Science spirit.  If you have a project you couldn't get support from traditional labs, then come and do it in Open FIESTA. </p>
 
 </br>
 
 **Roadmap - What is the residency program?**
 
-<p align="justify"> We have built the laboratory facilities of our Open FIESTA Community Lab, and now seek to create a community around it. To that end, we have established the residency program which wants to jumpstart the making of this community by inviting cohorts of makers over in Shenzhen to create projects using our lab, and as a result, spark creativity in the local community. A vital part of the program is the symbiotic relationship we want to build between the residents/makers and the Tsinghua students. </p>
+<p align="justify"> We have built the laboratory facilities of our Open FIESTA Community Lab, and now seek to create a community around it. To that end, we have established the residency program which wants to jumpstart the making of this community by inviting cohorts of makers over to Shenzhen to create projects using our lab and as a result spark creativity in the local community. A vital part of the program is the symbiotic relationship we want to build between the residents/makers and the Tsinghua students. </p>
 
 </br>
 
@@ -131,7 +131,7 @@ title: Residency
 
 <div style="margin:50px;">
 <img src="/image/unresidency.jpg" style="cursor: zoom-in; margin-top: 25px; margin-bottom: 50px">
-<p align="justify">The <b>(Un)Residency</b> concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events' agenda. The philosophy behind this organizational model is to avoid the hierarchical aspects of conventional programs creating decentralized bottom-up coordination. </p>
+<p align="justify">The <b>(Un)Residency</b> concept comes from the <a href="https://en.wikipedia.org/wiki/Unconference">(Un)Conference</a> spirit. UnConferences are participant-driven gatherings, where the members are involved in the decision-making process of the events agenda. The philosophy behind this organizational model is to avoid the hierarchical aspects of conventional programs creating decentralized bottom-up coordination. </p>
 
 <br>
 
@@ -250,7 +250,7 @@ Feel free to contribute to the improvement of this program with all your imagina
 
 ---
 
-<p align="justify"> Collaborators are any person that helped us to develop the program, either by giving us priceless feedback or putting their efforts for the improvement of the residency program. Anyone could become a collaborator as any relevant contribution to seeking a more useful program is welcomed. Please, don't hesitate to write to us for joining efforts.</p>
+<p align="justify"> Collaborators are any person that helped us to develop the program, either by giving us priceless feedback or putting their efforts for the improvement of the residency program. Anyone could become a collaborator as any relevant contribution to seeking a more useful program is welcomed. Don't hesitate to write to us for joining efforts.</p>
 
 
 
